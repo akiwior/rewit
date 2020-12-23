@@ -1,5 +1,5 @@
 def teryt_load(plik):
-    #funkcion import data from csv file to dictionary
+    #function import data from csv file to dictionary
     import csv
     f = open(plik , 'r', encoding="utf-8")
     reader = csv.reader(f)
