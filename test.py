@@ -5,4 +5,4 @@ print(slownik)
 # filename = 'slow.json'
 # with open(filename, 'w') as f:
 #     json.dump(slownik, f)
-slownik_kody.convert_to_json(slownik, 'nowy.json')
+slownik_kody.convert_to_json(slownik, 'nowy222.json')
