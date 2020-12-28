@@ -1,8 +1,6 @@
-import slownik_kody
-import json
-slownik = slownik_kody.teryt_load("E:/slownik-git/rewit/slownik.csv")
-print(slownik)
-# filename = 'slow.json'
-# with open(filename, 'w') as f:
-#     json.dump(slownik, f)
-slownik_kody.convert_to_json(slownik, 'nowy222.json')
+import slownik_kody as sl
+slownik = sl.teryt_load('slownik.csv')
+sl.convert_to_json(slownik, 'new.json')
+slownik2 = sl.load_json_dict('new.json')
+print(slownik2)
+

@@ -1,6 +1,7 @@
+import csv
+import json
 def teryt_load(plik):
     #function import data from csv file to dictionary
-    import csv
     f = open(plik , 'r', encoding="utf-8")
     reader = csv.reader(f)
     slownik = {}
@@ -9,12 +10,17 @@ def teryt_load(plik):
     return slownik
 def convert_to_json(in_slownik, out_json):
     #function create a dictionary in jsonfile
-    import json
     filename = out_json
     slownik = in_slownik
     with open(filename, 'w') as f:
         json.dump(slownik, f)
-
+def load_json_dict(in_json_dic):
+    #function load json dict jsonfile
+    filename = in_json_dic 
+    slownik = {}
+    with open(filename) as f:
+        slownik = json.load(f)
+    return slownik
 
 
 
