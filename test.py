@@ -12,9 +12,9 @@ for rekord in slownik_feat:
     # print(rekord['properties'])
     rekord_num['nowsze'] = kod
     imie = rekord_num['IMIE']
-    print(imie)
+    # print(imie)
     insert = slownik3[imie]
-    print(f" to jest watrość wstawiona do pliku json{insert}")
+    print(f" to jest watrość wstawiona do pliku json {insert}")
     rekord_num['nowsze'] = insert 
     kod = kod + 1
     print(rekord_num)
@@ -23,3 +23,6 @@ for rekord in slownik_feat:
     #     atr['nowsze'] = kod
     # kod = kod + 1        
     # print(rekord['properties'])
+print(slownik_feat)    
+print(slownik2)
+sl.convert_to_json(slownik2, 'after_change.geojson')
