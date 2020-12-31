@@ -7,4 +7,3 @@
 from slownik_kody import *
 adresy = load_json_dict("E:\\rewit\\pkt_adresowe.geojson")
 print(adresy)
-adam kiwior jest chłopakiem
