@@ -8,7 +8,7 @@ import csv
 # from slownik_kody import *
 # adresy = load_json_dict("E:\\rewit\\pkt_adresowe.geojson")
 # print(adresy)
-plik = r"E:\rewit\ULIC_SIMC(0977278)_TERC(2263011)_31-12-2020.csv"
+plik = r"ULIC_SIMC(0977278)_TERC(2263011)_31-12-2020.csv"
 f = open(plik , 'r', encoding="utf-8", newline='')
 reader = csv.reader(f, delimiter=';', quotechar='|')
 slownik = {}
