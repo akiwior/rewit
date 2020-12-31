@@ -12,13 +12,13 @@ def convert_to_json(in_slownik, out_json):
     #function create a dictionary in jsonfile
     filename = out_json
     slownik = in_slownik
-    with open(filename, 'w') as f:
+    with open(filename, 'w', encoding="utf-8") as f:
         json.dump(slownik, f)
 def load_json_dict(in_json_dic):
     #function load json dict jsonfile
     filename = in_json_dic 
     slownik = {}
-    with open(filename) as f:
+    with open(filename, encoding="utf-8") as f:
         slownik = json.load(f)
     return slownik
 
