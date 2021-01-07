@@ -9,7 +9,7 @@ def teryt_load(plik):
         slownik[row[1]] = row[0]
     return slownik
 def convert_to_json(in_slownik, out_json):
-    #function create a dictionary in jsonfile
+    #function create a dictionary in jsonfile wrom dict in python
     filename = out_json
     slownik = in_slownik
     with open(filename, 'w', encoding="utf-8") as f:

@@ -19,11 +19,14 @@ for row in reader:
     slownik[row[7]] = row[5]
 # return slownik
 # print(slownik)
-for rekord in slownik_feat:
-    rekord_num = rekord['properties']
-    ulica = (rekord_num['ulica'])
+slownik_UPDATE = {'1':'11', '2': '22'}
+convert_to_json(slownik_UPDATE, 'dodatkowy.json')
+
+# for rekord in slownik_feat:
+    # rekord_num = rekord['properties']
+    # ulica = (rekord_num['ulica'])
     # print(f"{ulica} {slownik[ulica]}")
-    rekord_num['teryt'] = slownik[ulica]
+    # rekord_num['teryt'] = slownik[ulica]
     # # print(rekord_num)
     # # print(rekord['properties'])
     # rekord_num['nowsze'] = kod
@@ -34,3 +37,5 @@ for rekord in slownik_feat:
     # rekord_num['nowsze'] = insert 
     # kod = kod + 1
     # print(rekord_num)
+# for key, value in slownik.items():
+#     print(key,'->', value)
