@@ -25,8 +25,8 @@ def load_json_dict(in_json_dic):
         slownik = json.load(f)
     return slownik
 
-def teryt_load_pelne_nazwy(plik, kol_ulic, kol_ulicy_dodatk,  kol_teryt, seperator):
-    #function import data from csv file to dictionary plik csv z gus
+def teryt_load_pelne_nazwy(plik, kol_ulic, kol_ulicy_dodatk, kol_teryt, seperator):
+    #function import data from csv file to dictionary plik csv comes from gus 
     f = open(plik , 'r', encoding="utf-8", newline='')
     reader = csv.reader(f, delimiter=seperator, quotechar='|')
     slownik = {}
