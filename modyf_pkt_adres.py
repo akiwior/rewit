@@ -10,8 +10,8 @@ adresy = load_json_dict('./input_file_dir/pkt_adresowe.geojson')
 # print(feat)
 for pkt in adresy['features']:
     kod = slownik.get(pkt['properties']['ulica'].lower())
-    pkt['properties']['teryt'] = kod 
+    pkt['properties']['teryt'] = f"{kod}-{pkt['properties']['nr_adr']}" 
     print(pkt['properties']['ulica'], '>>', kod)
     # print(pkt['properties'])
 # print(adresy['features'][:100])
-convert_to_json(adresy, './input_file_dir/nowy.json')
+convert_to_json(adresy, './output_file_dir/nowy.json')
