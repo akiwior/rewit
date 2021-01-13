@@ -9,7 +9,7 @@ adresy = load_json_dict('./input_file_dir/pkt_adresowe.geojson')
 # feat = adresy['features']
 # print(feat)
 for pkt in adresy['features']:
-    kod = slownik[pkt['properties']['ulica_pelna'].lower()]
+    kod = slownik.get(pkt['properties']['ulica'].lower())
     pkt['properties']['teryt'] = kod 
     print(pkt['properties']['ulica'], '>>', kod)
     # print(pkt['properties'])
