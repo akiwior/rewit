@@ -14,16 +14,17 @@ for adres in punkty_adresy['features']:
     lista_adresow.append(adres['properties']['teryt'])
 print(dane_csv)
 # print(lista_adresow)
-for punkt in punkty_adresy['features']:
-    # print(punkt['properties']['teryt'])
-    punkt['properties']['dane'] = dane_csv.get(punkt['properties']['teryt'])
-    # if punkt['properties']['teryt'] == dane_csv[punkt['properties']['teryt']]:
-    #     punkt['properties']['dane'] = dane_csv[punkt['properties']['teryt']]
-    # else:
-    #     punkt['properties']['dane'] = None
-    # print(punkty_adresy)
-convert_to_json(punkty_adresy, 'output_file_dir/nowy_dane.json')
-
+# for punkt in punkty_adresy['features']:
+#     # print(punkt['properties']['teryt'])
+#     punkt['properties']['dane'] = dane_csv.get(punkt['properties']['teryt'], 0)
+#     # if punkt['properties']['teryt'] == dane_csv[punkt['properties']['teryt']]:
+#     #     punkt['properties']['dane'] = dane_csv[punkt['properties']['teryt']]
+#     # else:
+#     #     punkt['properties']['dane'] = None
+#     # print(punkty_adresy)
+# convert_to_json(punkty_adresy, 'output_file_dir/nowy_dane.json')
+nowy_slownik = add_data_to_ulice(punkty_adresy, dane_csv, 0)
+convert_to_json(nowy_slownik, 'output_file_dir/nowy_dane_II.json')
 
 
 #     else:

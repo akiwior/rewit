@@ -19,6 +19,14 @@ def ulice_dane_load_csv(plik, kol_ulica, kol_numer, kol_wartosc, seperator, slow
         slownik[slownik_z_kodami_teryt[row[kol_ulica].lower().strip()]+"--"+row[kol_numer].strip()]=row[kol_wartosc]
     return slownik
 
+def add_data_to_ulice(punkty_adresy, slown_dane, dana=None):
+    #dodaje do slownika z punktami adresowymi , pole zawierajace dane ze slownia
+    #slownik powinien miec format ulica:dana
+    for punkt in punkty_adresy['features']:
+    # print(punkt['properties']['teryt'])
+        punkt['properties']['dane'] = slown_dane.get(punkt['properties']['teryt'], dana)
+    return punkty_adresy
+
 def convert_to_json(in_slownik, out_json):
     #function create a dictionary in jsonfile wrom dict in python
     filename = out_json

@@ -10,12 +10,13 @@ from json import *
 #         print('jest')
 #         punkt["wartosci"]["wartosc3"]= "3"
 # print(punkt)
-file = "siatka_slupsk_1000.geojson"
+
+file = "E:/slownik-git/rewit/siatka_1000/siatka_slupsk_1000.geojson"
 with open(file) as json_file:
     siatka = load(json_file)
 print(siatka)
 for obiekt in siatka['features']:
-    obiekt['properties']['punkty']=f" komórka {obiekt['properties']['id']+2}"
+    obiekt['properties']['punkty']=f"komórka {obiekt['properties']['id']}"
 with open(file, 'w', encoding='utf-8') as json_out:
     dump(siatka,json_out, ensure_ascii=False)
 print(siatka)
