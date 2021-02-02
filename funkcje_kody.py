@@ -58,6 +58,23 @@ def teryt_load_pelne_nazwy(plik, kol_ulic, kol_ulicy_dodatk, kol_teryt, seperato
             pass
     return slownik
 
+def dod_do_adres_grid_id(adresy, siatka):
+    #funkcja dodajaca do kazdego adresu id poligonu grid
+    for adres in adresy["features"]:
+        pk = adres["geometry"]["coordinates"]
+        ms_link = adres['properties']['mslink']
+    # print(f"sprawdzam dla {ms_link} wspolrzedne to {pk}")
+        for grid_cell in siatka['features']:
+            polig1 = grid_cell['geometry']['coordinates'][0]
+        #sprawdzenie przynaleznosci kazdego punktu do siatki grid pobierane sa wspolzedne pierwszego naroznika
+        #oraz trzeciego i porownywane do wspołrzędnuch x,y każdego punktu.
+            if pk[0] > polig1[0][0] and pk[0] < polig1[2][0] and pk[1] < polig1[0][1] and pk[1] > polig1[2][1]:
+            #  dodaje do karzdego punktu przynaleznosc do siatki ppoligonu grid
+                adres['properties']['grid_id']= grid_cell['properties']['id']
+            else:
+                continue
+    return adresy
+
 
 
 
