@@ -9,6 +9,7 @@ def teryt_load(plik, kol_ulic, kol_teryt, seperator):
         slownik[row[kol_ulic].lower()] = row[kol_teryt]
     return slownik
 
+
 def ulice_dane_load_csv(plik, kol_ulica, kol_numer, kol_wartosc, seperator, slownik_z_kodami_teryt):
     #funkcja importujaca z pliku csv do slownika python, 
     # zamieniajaca nazwe ulicy i adres na teryt-numer: wartosc
@@ -16,7 +17,7 @@ def ulice_dane_load_csv(plik, kol_ulica, kol_numer, kol_wartosc, seperator, slow
     reader = csv.reader(f, delimiter=seperator, quotechar='|')
     slownik = {}
     for row in reader:
-        slownik[slownik_z_kodami_teryt[row[kol_ulica].lower().strip()]+"--"+row[kol_numer].strip()]=row[kol_wartosc]
+        slownik[slownik_z_kodami_teryt[row[kol_ulica].lower().strip()]+"--"+row[kol_numer].strip()]=float(row[kol_wartosc])
     return slownik
 
 def add_data_to_ulice(punkty_adresy, slown_dane, dana=None):
@@ -24,7 +25,7 @@ def add_data_to_ulice(punkty_adresy, slown_dane, dana=None):
     #slownik powinien miec format ulica:dana
     for punkt in punkty_adresy['features']:
     # print(punkt['properties']['teryt'])
-        punkt['properties']['dane'] = slown_dane.get(punkt['properties']['teryt'], dana)
+        punkt['properties']['dane'] = slown_dane.get(punkt['properties']['teryt_numer'], dana)
     return punkty_adresy
 
 def convert_to_json(in_slownik, out_json):
@@ -75,8 +76,28 @@ def dod_do_adres_grid_id(adresy, siatka):
                 continue
     return adresy
 
+def teryt_load_pelne_nazwy_zdodatkiem(plik, kol_ulic, kol_ulicy_dodatk, kol_teryt, seperator, slownik_dodadkowy):
+    #function import data from csv file to dictionary plik csv comes from gus - GLOWNY 
+    # URZAD STATYSTYCZNY plus dane ze slownika dodatkowego aktualizowanego na bierzaco
+    f = open(plik , 'r', encoding="utf-8", newline='')
+    reader = csv.reader(f, delimiter=seperator, quotechar='|')
+    slownik = {}
+    for row in reader:
+        if row[kol_ulicy_dodatk].isalpha():
+    # print(row)
+            slownik[row[kol_ulic].lower() + ' ' + row[kol_ulicy_dodatk].lower()] = row[kol_teryt]
+            slownik[row[kol_ulicy_dodatk].lower() + ' ' + row[kol_ulic].lower()] = row[kol_teryt]
+        else:
+            pass
+    slownik_prosty = teryt_load(plik, kol_ulic, kol_teryt, seperator)
+    slownik = {**slownik, **slownik_dodadkowy, **slownik_prosty}
+    return slownik
 
-
-
+def add_teryt_to_adresy_geojson(dict_adresy_geojson,`` slownik):
+    #dodaje pole teryt_numer: teryt_dla ulicy--nr_adr i zapisuje jako 
+    for adres in dict_adresy_geojson['features']:
+      adres['properties']['teryt_numer'] = f"{slownik[adres['properties']['ulica'].lower()]}--{adres['properties']['nr_adr']}"
+    return dict_adresy_geojson
+    
 
     
