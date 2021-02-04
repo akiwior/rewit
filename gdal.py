@@ -1,0 +1,4 @@
+import gdal
+gdal.RaterizeLayer()
+
+
