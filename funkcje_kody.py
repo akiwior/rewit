@@ -101,6 +101,7 @@ def add_teryt_to_adresy_geojson(dict_adresy_geojson, slownik):
     return dict_adresy_geojson
 
 def add_data_to_gird(grid, punkty_dane_grid):
+    #dodaje do grid dane ze slownika zawierajcego kodteryt--numer; id komorki grid; dane, tworzy liste wartosci, oraz pole z suma
     for cell in grid['features']:
         cell['properties']['lista']=[]
         for punkt in punkty_dane_grid['features']:
