@@ -1,5 +1,6 @@
 import csv
 import json
+
 def teryt_load(plik, kol_ulic, kol_teryt, seperator):
     #function import data from csv file to dictionary plik csv z gus
     f = open(plik , 'r', encoding="utf-8", newline='')
@@ -69,7 +70,7 @@ def dod_do_adres_grid_id(adresy, siatka):
             polig1 = grid_cell['geometry']['coordinates'][0]
         #sprawdzenie przynaleznosci kazdego punktu do siatki grid pobierane sa wspolzedne pierwszego naroznika
         #oraz trzeciego i porownywane do wspołrzędnuch x,y każdego punktu.
-            if pk[0] > polig1[0][0] and pk[0] < polig1[2][0] and pk[1] < polig1[0][1] and pk[1] > polig1[2][1]:
+            if pk[0] >= polig1[0][0] and pk[0] < polig1[2][0] and pk[1] <= polig1[0][1] and pk[1] > polig1[2][1]:
             #  dodaje do karzdego punktu przynaleznosc do siatki ppoligonu grid
                 adres['properties']['grid_id']= grid_cell['properties']['id']
             else:
@@ -93,11 +94,19 @@ def teryt_load_pelne_nazwy_zdodatkiem(plik, kol_ulic, kol_ulicy_dodatk, kol_tery
     slownik = {**slownik, **slownik_dodadkowy, **slownik_prosty}
     return slownik
 
-def add_teryt_to_adresy_geojson(dict_adresy_geojson,`` slownik):
+def add_teryt_to_adresy_geojson(dict_adresy_geojson, slownik):
     #dodaje pole teryt_numer: teryt_dla ulicy--nr_adr i zapisuje jako 
     for adres in dict_adresy_geojson['features']:
       adres['properties']['teryt_numer'] = f"{slownik[adres['properties']['ulica'].lower()]}--{adres['properties']['nr_adr']}"
     return dict_adresy_geojson
-    
+
+def add_data_to_gird(grid, punkty_dane_grid):
+    for cell in grid['features']:
+        cell['properties']['lista']=[]
+        for punkt in punkty_dane_grid['features']:
+            if cell['properties']['id'] == punkt['properties']['grid_id']:
+                cell['properties']['lista'].append(punkt['properties']['dane'])
+        cell['properties']['suma_danych']=sum(cell['properties']['lista'])
+    return grid
 
     
