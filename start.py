@@ -1,34 +1,26 @@
-from funkcje_kody import *
+#wczytanie pliku z adresami
+import csv
 
-slownik_teryt = load_json_dict('slowniki/pelny_slownik.json')
+seperator=';'
+plik = "csv/lud_utf8.csv"
 
-plik_csv = 'input_file_dir/wejscie.csv'
-
-dane_csv = ulice_dane_load_csv(plik_csv, 0, 1, 2,',', slownik_teryt )
-
-punkty_adresy = load_json_dict('output_file_dir/nowy.json')
-
-print(dane_csv)
-lista_adresow = []
-for adres in punkty_adresy['features']:
-    lista_adresow.append(adres['properties']['teryt'])
-print(dane_csv)
-# print(lista_adresow)
-# for punkt in punkty_adresy['features']:
-#     # print(punkt['properties']['teryt'])
-#     punkt['properties']['dane'] = dane_csv.get(punkt['properties']['teryt'], 0)
-#     # if punkt['properties']['teryt'] == dane_csv[punkt['properties']['teryt']]:
-#     #     punkt['properties']['dane'] = dane_csv[punkt['properties']['teryt']]
-#     # else:
-#     #     punkt['properties']['dane'] = None
-#     # print(punkty_adresy)
-# convert_to_json(punkty_adresy, 'output_file_dir/nowy_dane.json')
-nowy_slownik = add_data_to_ulice(punkty_adresy, dane_csv, 0)
-convert_to_json(nowy_slownik, 'output_file_dir/nowy_dane_II.json')
-
-
-#     else:
-#         adres['properties']['dane']= None
+f = open(plik , 'r', encoding="utf-8", newline='')
+reader = csv.reader(f, delimiter=seperator, quotechar='|')
+slownik = {}
+adres = ''
+czlowiek = 0
+for row in reader:
+    if row[2].replace('"','')+'--'+row[3].replace('"','') == adres:
+        
+        slownik[adres]={row[4]:int(row[5])}
+    else:
+        adres = row[2].replace('"','')+'--'+row[3].replace('"','')
+        slownik[adres]={}
+        slownik[adres].add(row[4],int(row[5]))
+    #slownik[slownik_z_kodami_teryt[row[kol_ulica].lower().strip()]+"--"+row[kol_numer].strip()]=float(row[kol_wartosc])
+    # print(adres)
+    # return slownik
+print(slownik)
 
 
 
