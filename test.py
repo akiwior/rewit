@@ -7,7 +7,9 @@ adresy = load_json_dict('input_file_dir/pkt_adresowe.geojson')
 #importowanie siatki 1000x1000-geojson
 grid = load_json_dict('siatka_1000/siatka_slupsk_1000.geojson')
 #wgranie pliku z danymi z pliku csv
-dane = ulice_dane_load_csv("csv/ulica_numer_dana.csv",0, 1, 2, ',', teryt)
+#wgranie danych z meldunkow
+dane = meldunki_do_slownik('csv/lud_utf8.csv',';')
+# dane = ulice_dane_load_csv("csv/ulica_numer_dana.csv",0, 1, 2, ',', teryt)
 # dodanie teryt do adresow
 adres_teryt = add_teryt_to_adresy_geojson(adresy, teryt)
 #dodanie danych do adresow
@@ -18,4 +20,5 @@ adres_teryt_data_grid = dod_do_adres_grid_id(adres_teryt_data, grid)
 grid_data = add_data_to_gird(grid, adres_teryt_data_grid)
 #zapisanie geojson nowy_slownik_tekstowy.geojson
 convert_to_json(grid_data, 'nowy_slownik_testowy.geojson')
+convert_to_json(adres_teryt_data, 'punty_adresowe_meldunki.geojson')
 
