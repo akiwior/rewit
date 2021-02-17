@@ -1,6 +1,6 @@
 import csv
 import json
-
+#funkcja importujaca dane z pliku csv do slownika python
 def teryt_load(plik, kol_ulic, kol_teryt, seperator):
     #function import data from csv file to dictionary plik csv z gus
     f = open(plik , 'r', encoding="utf-8", newline='')
@@ -10,7 +10,8 @@ def teryt_load(plik, kol_ulic, kol_teryt, seperator):
         slownik[row[kol_ulic].lower()] = row[kol_teryt]
     return slownik
 
-
+#funkcja importujaca z pliku csv do slownika python, 
+# zamieniajaca nazwe ulicy i adres na teryt-numer: wartosc
 def ulice_dane_load_csv(plik, kol_ulica, kol_numer, kol_wartosc, seperator, slownik_z_kodami_teryt):
     #funkcja importujaca z pliku csv do slownika python, 
     # zamieniajaca nazwe ulicy i adres na teryt-numer: wartosc
@@ -21,6 +22,8 @@ def ulice_dane_load_csv(plik, kol_ulica, kol_numer, kol_wartosc, seperator, slow
         slownik[slownik_z_kodami_teryt[row[kol_ulica].lower().strip()]+"--"+row[kol_numer].strip()]=float(row[kol_wartosc])
     return slownik
 
+#dodaje do slownika z punktami adresowymi , pole zawierajace dane ze slownia
+#slownik powinien miec format ulica:dana
 def add_data_to_ulice(punkty_adresy, slown_dane, dana=None):
     #dodaje do slownika z punktami adresowymi , pole zawierajace dane ze slownia
     #slownik powinien miec format ulica:dana
@@ -29,6 +32,7 @@ def add_data_to_ulice(punkty_adresy, slown_dane, dana=None):
         punkt['properties']['dane'] = slown_dane.get(punkt['properties']['teryt_numer'], dana)
     return punkty_adresy
 
+#funkcja zapisująca slowniki do pliku json
 def convert_to_json(in_slownik, out_json):
     #function create a dictionary in jsonfile wrom dict in python
     filename = out_json
@@ -37,6 +41,7 @@ def convert_to_json(in_slownik, out_json):
         json.dump(slownik, f, ensure_ascii=False)
         #ensure_ascii false jest zeby mie wgrywal kodawania znakow z windowsa
 
+#funkcja loadujaca slowniki z jsona do pythona
 def load_json_dict(in_json_dic):
     #function load json dict jsonfile
     filename = in_json_dic 

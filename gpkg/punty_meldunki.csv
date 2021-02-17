@@ -1,0 +1,911 @@
+fid,mslink,miejscowosc,kod,poczta,przedr,przedrostek,ulica,ulica_pelna,nr_adr,nr_adr2,dzialka_id,budynek_id,kat,just,teryt_numer,field_2
+57,48994,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,16,,,,197,uc,08435--16,17
+59,49190,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,24,,,,16,uc,03851--24,1
+60,49208,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,2B,,,,192,uc,16742--2B,23
+62,49226,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,2A,,,,194,uc,16742--2A,15
+63,49419,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,20A,,,,13,uc,23196--20A,52
+65,49479,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,27,,,,18,uc,00432--27,5
+66,49502,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,7,,,,357,uc,09848--7,8
+67,49520,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,22,,,,86,uc,24289--22,16
+68,49528,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,26,,,,17,uc,00432--26,1
+70,50731,Słupsk,76-200,Słupsk,ul.,ulica,Słowiańska,Słowiańska,10,,,,109,uc,20294--10,4
+71,50925,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,21,,,,214,uc,09848--21,37
+73,51261,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,5,,,,43,uc,09848--5,2
+76,51581,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,26,,,,17,uc,08435--26,5
+78,51796,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,30,,,,15,uc,00432--30,15
+79,51965,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,38,,,,15,uc,00432--38,7
+94,56019,Słupsk,76-200,Słupsk,ul.,ulica,Towarowa,Towarowa,9,,,,354,uc,22907--9,12
+146,60429,Słupsk,76-200,Słupsk,ul.,ulica,Gdańska,Gdańska,6,,,,191,uc,05431--6,8
+147,60465,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,10,,,,103,uc,03839--10,6
+149,60573,Słupsk,76-200,Słupsk,ul.,ulica,Szymanowskiego,Karola Szymanowskiego,4,,,,314,uc,22238--4,1
+150,60698,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,42,,,,286,uc,03839--42,30
+151,60804,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,22,,,,285,uc,06602--22,11
+152,61048,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,10,,,,195,uc,00432--10,15
+153,61355,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,17,,,,217,uc,00432--17,10
+154,61365,Słupsk,76-200,Słupsk,ul.,ulica,Mieszka I,Mieszka I,1,,,,58,uc,12832--1,15
+155,61366,Słupsk,76-200,Słupsk,ul.,ulica,Mieszka I,Mieszka I,6,,,,58,uc,12832--6,13
+156,61367,Słupsk,76-200,Słupsk,ul.,ulica,Mieszka I,Mieszka I,5,,,,58,uc,12832--5,9
+157,61386,Słupsk,76-200,Słupsk,ul.,ulica,Słowackiego,Juliusza Słowackiego,45,,,,101,uc,20291--45,12
+158,61432,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,11,,,,196,uc,00432--11,7
+159,61473,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,37,,,,278,uc,03839--37,28
+160,61488,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,27,,,,274,uc,07240--27,20
+162,61543,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,14,,,,314,uc,02849--14,3
+163,61550,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,9,,,,195,uc,00432--9,18
+166,61763,Słupsk,76-200,Słupsk,ul.,ulica,Mikołajska,Mikołajska,3,,,,151,uc,12896--3,37
+168,61895,Słupsk,76-200,Słupsk,ul.,ulica,Dąbrówki,Dąbrówki,1,,,,176,uc,03701--1,18
+170,62002,Słupsk,76-200,Słupsk,ul.,ulica,Polna,Polna,3,,,,188,uc,17011--3,6
+171,62013,Słupsk,76-200,Słupsk,ul.,ulica,Słowackiego,Juliusza Słowackiego,1,,,,191,uc,20291--1,7
+172,62046,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,3,,,,316,uc,02849--3,1
+174,62177,Słupsk,76-200,Słupsk,ul.,ulica,Garncarska,Garncarska,22,,,,357,uc,05345--22,2
+175,62192,Słupsk,76-200,Słupsk,ul.,ulica,Garncarska,Garncarska,23,,,,357,uc,05345--23,1
+185,62321,Słupsk,76-200,Słupsk,ul.,ulica,Piastów,Piastów,2,,,,99,uc,16057--2,1
+186,62323,Słupsk,76-200,Słupsk,ul.,ulica,Piastów,Piastów,4,,,,104,uc,16057--4,5
+187,62325,Słupsk,76-200,Słupsk,ul.,ulica,Raszyńska,Raszyńska,1,,,,9,uc,18467--1,5
+188,62326,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,10,,,,190,uc,10793--10,4
+189,62332,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,24,,,,184,uc,10793--24,79
+190,62342,Słupsk,76-200,Słupsk,ul.,ulica,Piastów,Piastów,5,,,,107,uc,16057--5,12
+191,62343,Słupsk,76-200,Słupsk,ul.,ulica,Piastów,Piastów,6,,,,279,uc,16057--6,18
+203,62370,Słupsk,76-200,Słupsk,ul.,ulica,Piastów,Piastów,1,,,,100,uc,16057--1,4
+204,62374,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,32,,,,9,uc,10793--32,11
+205,62378,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,15,,,,189,uc,10793--15,7
+206,62382,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,17,,,,189,uc,10793--17,5
+207,62385,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,16,,,,189,uc,10793--16,2
+208,62390,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,14,,,,189,uc,10793--14,3
+209,62392,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,18,,,,189,uc,10793--18,4
+210,62393,Słupsk,76-200,Słupsk,ul.,ulica,Piastów,Piastów,14,,,,278,uc,16057--14,5
+211,62394,Słupsk,76-200,Słupsk,ul.,ulica,Piastów,Piastów,15,,,,267,uc,16057--15,2
+212,62395,Słupsk,76-200,Słupsk,ul.,ulica,Wysoka,Wysoka,4,,,,98,uc,25067--4,4
+213,62396,Słupsk,76-200,Słupsk,ul.,ulica,Wysoka,Wysoka,2,,,,98,uc,25067--2,2
+214,62398,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,12,,,,189,uc,10793--12,5
+215,62400,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,20,,,,189,uc,10793--20,2
+216,62402,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,21,,,,189,uc,10793--21,1
+217,62404,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,19,,,,187,uc,10793--19,1
+218,62406,Słupsk,76-200,Słupsk,ul.,ulica,Wysoka,Wysoka,1,,,,280,uc,25067--1,1
+219,62407,Słupsk,76-200,Słupsk,ul.,ulica,Raszyńska,Raszyńska,2,,,,19,uc,18467--2,5
+275,62520,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,3,,,,189,uc,10793--3,9
+284,62594,Słupsk,76-200,Słupsk,ul.,ulica,Wysoka,Wysoka,6,,,,98,uc,25067--6,2
+289,62644,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,45,,,,9,uc,10793--45,6
+290,62645,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,43,,,,9,uc,10793--43,9
+291,62646,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,42,,,,9,uc,10793--42,4
+292,62647,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,35,,,,9,uc,10793--35,7
+293,62648,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,34,,,,9,uc,10793--34,4
+294,62650,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,33,,,,9,uc,10793--33,5
+295,62652,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,31,,,,9,uc,10793--31,6
+296,62655,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,30,,,,9,uc,10793--30,13
+313,62740,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,44,,,,9,uc,10793--44,9
+319,62765,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,11,,,,189,uc,10793--11,3
+325,62787,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,2,,,,188,uc,10793--2,6
+327,62794,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,9,,,,189,uc,10793--9,2
+869,70055,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,12,,,,288,uc,14834--12,5
+871,76095,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,10A,,,,266,uc,12740--10A,6
+963,90164,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,16,,,,46,uc,26969--16,6
+972,93039,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,12A,,,,87,uc,20551--12A,5
+973,93244,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,3,,,,16,uc,23196--3,15
+974,94089,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,12A,,,,268,uc,24289--12A,45
+975,94194,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,19,,,,193,uc,08435--19,6
+976,94240,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,5,,,,196,uc,03851--5,10
+977,94242,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,6,,,,196,uc,03851--6,16
+978,94244,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,25,,,,15,uc,03851--25,8
+979,94306,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,45,,,,87,uc,12740--45,14
+1005,99168,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,27,,,,181,uc,10793--27,4
+1014,100353,Słupsk,76-200,Słupsk,ul.,ulica,Piastów,Piastów,3,,,,105,uc,16057--3,18
+1037,102681,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,29A,,,,84,uc,24289--29A,10
+1038,102701,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,54-55,,,,86,uc,12740--54-55,10
+1040,106941,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,28,,,,9,uc,10793--28,6
+1043,107567,Słupsk,76-200,Słupsk,ul.,ulica,Garncarska,Garncarska,1,,,,176,uc,05345--1,51
+1044,107909,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,3,,,,133,uc,14834--3,6
+1242,108730,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,4,,,,254,uc,12130--4,15
+1243,109238,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,20,,,,74,uc,27319--20,16
+1244,109297,Słupsk,76-200,Słupsk,ul.,ulica,Grodzka,Grodzka,1A,,,,291,uc,06163--1A,113
+1247,110408,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,18A,,,,294,uc,06602--18A,2
+1248,114367,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,2,,,,78,uc,17742--2,24
+1249,114666,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,29,,,,9,uc,10793--29,4
+1896,116884,Słupsk,76-200,Słupsk,ul.,ulica,Sobieskiego,Jana Sobieskiego,17,,,,290,uc,20427--17,60
+1898,116886,Słupsk,76-200,Słupsk,ul.,ulica,Sobieskiego,Jana Sobieskiego,18,,,,262,uc,20427--18,28
+1899,116891,Słupsk,76-200,Słupsk,ul.,ulica,Sobieskiego,Jana Sobieskiego,16,,,,289,uc,20427--16,28
+1900,116892,Słupsk,76-200,Słupsk,ul.,ulica,Sobieskiego,Jana Sobieskiego,15,,,,289,uc,20427--15,16
+1902,116898,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,17,,,,81,uc,20012--17,20
+1903,116899,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,18,,,,108,uc,20012--18,10
+1904,116900,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,16,,,,81,uc,20012--16,23
+1905,116901,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,15,,,,0,uc,20012--15,21
+1906,116902,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,19,,,,108,uc,20012--19,21
+1907,116903,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,20,,,,108,uc,20012--20,35
+1908,116904,Słupsk,76-200,Słupsk,ul.,ulica,Szczecińska,Szczecińska,7,,,,17,uc,21805--7,54
+1909,116905,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,21,,,,108,uc,20012--21,24
+1910,116906,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,22,,,,108,uc,20012--22,21
+1911,116907,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,23,,,,108,uc,20012--23,25
+1912,116908,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,24,,,,108,uc,20012--24,29
+1913,116909,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,7,,,,289,uc,20012--7,13
+1914,116910,Słupsk,76-200,Słupsk,ul.,ulica,Szczecińska,Szczecińska,6,,,,18,uc,21805--6,32
+1915,116911,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,6,,,,289,uc,20012--6,8
+1916,116912,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,5,,,,288,uc,20012--5,12
+1917,116913,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,4,,,,288,uc,20012--4,6
+1918,116914,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,3,,,,290,uc,20012--3,25
+1919,116915,Słupsk,76-200,Słupsk,ul.,ulica,Skargi,Piotra Skargi,2,,,,290,uc,20012--2,23
+1920,116916,Słupsk,76-200,Słupsk,ul.,ulica,Szczecińska,Szczecińska,3-5,,,,18,uc,21805--3-5,42
+2019,117096,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,21,,,,195,uc,23196--21,53
+2022,117104,Słupsk,76-200,Słupsk,ul.,ulica,Stwosza,Wita Stwosza,9,,,,255,uc,21435--9,29
+2025,117107,Słupsk,76-200,Słupsk,ul.,ulica,Stwosza,Wita Stwosza,8,,,,256,uc,21435--8,24
+2026,117108,Słupsk,76-200,Słupsk,ul.,ulica,Stwosza,Wita Stwosza,7,,,,255,uc,21435--7,34
+2027,117110,Słupsk,76-200,Słupsk,ul.,ulica,Kasprowicza,Jana Kasprowicza,6,,,,170,uc,08153--6,44
+2030,117117,Słupsk,76-200,Słupsk,ul.,ulica,Kasprowicza,Jana Kasprowicza,5,,,,168,uc,08153--5,20
+2032,117119,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,117,,,,238,uc,17742--117,27
+2034,117121,Słupsk,76-200,Słupsk,ul.,ulica,Kasprowicza,Jana Kasprowicza,4,,,,168,uc,08153--4,18
+2035,117122,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,118,,,,236,uc,17742--118,35
+2036,117125,Słupsk,76-200,Słupsk,ul.,ulica,Kasprowicza,Jana Kasprowicza,3,,,,168,uc,08153--3,16
+2037,117127,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,8,,,,57,uc,17742--8,25
+2038,117128,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,119,,,,237,uc,17742--119,21
+2039,117130,Słupsk,76-200,Słupsk,ul.,ulica,Kasprowicza,Jana Kasprowicza,2,,,,168,uc,08153--2,15
+2041,117132,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,7,,,,57,uc,17742--7,27
+2043,117134,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,120,,,,237,uc,17742--120,22
+2044,117135,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,115,,,,227,uc,17742--115,2
+2047,117138,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,6,,,,57,uc,17742--6,23
+2048,117139,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,121,,,,237,uc,17742--121,20
+2049,117140,Słupsk,76-200,Słupsk,ul.,ulica,Kasprowicza,Jana Kasprowicza,1,,,,155,uc,08153--1,17
+2052,117145,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,116,,,,226,uc,17742--116,2
+2053,117146,Słupsk,76-200,Słupsk,ul.,ulica,Przemysłowa,Przemysłowa,5,,,,57,uc,17742--5,25
+2072,117174,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,3,,,,137,uc,15532--3,20
+2074,117177,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,4,,,,137,uc,15532--4,25
+2077,117184,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,6,,,,138,uc,15532--6,22
+2079,117186,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,7,,,,138,uc,15532--7,17
+2080,117187,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,8,,,,138,uc,15532--8,20
+2083,117191,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,10,,,,138,uc,15532--10,15
+2084,117193,Słupsk,76-200,Słupsk,ul.,ulica,Wrocławska,Wrocławska,1,,,,47,uc,24806--1,15
+2086,117195,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,11,,,,138,uc,15532--11,25
+2088,117198,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,12,,,,139,uc,15532--12,28
+2090,117201,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,13,,,,139,uc,15532--13,15
+2093,117205,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,14,,,,141,uc,15532--14,19
+2095,117208,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,15,,,,141,uc,15532--15,22
+2097,117214,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,18,,,,141,uc,15532--18,21
+2098,117215,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,19,,,,141,uc,15532--19,14
+2099,117217,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,20,,,,141,uc,15532--20,21
+2100,117218,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,14,,,,47,uc,26969--14,14
+2101,117219,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,21,,,,140,uc,15532--21,15
+2102,117220,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,13,,,,47,uc,26969--13,25
+2103,117222,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,12,,,,47,uc,26969--12,24
+2104,117223,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,22,,,,141,uc,15532--22,26
+2105,117224,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,11,,,,47,uc,26969--11,30
+2106,117226,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,23,,,,141,uc,15532--23,18
+2107,117227,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,10,,,,47,uc,26969--10,20
+2108,117230,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,19,,,,226,uc,26969--19,3
+2109,117232,Słupsk,76-200,Słupsk,ul.,ulica,Szymanowskiego,Karola Szymanowskiego,22,,,,135,uc,22238--22,3
+2110,117258,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,18,,,,282,uc,11265--18,7
+2111,117260,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,17,,,,282,uc,11265--17,7
+2112,117265,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,55,,,,9,uc,10793--55,9
+2113,117266,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,54,,,,10,uc,10793--54,20
+2114,117271,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,52,,,,9,uc,10793--52,8
+2115,117272,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,51,,,,5,uc,10793--51,6
+2117,117275,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,50,,,,4,uc,10793--50,7
+2118,117276,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,49,,,,10,uc,10793--49,4
+2120,117278,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,48,,,,10,uc,10793--48,5
+2121,117279,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,47,,,,10,uc,10793--47,9
+2122,117282,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,46,,,,4,uc,10793--46,9
+2123,117283,Słupsk,76-200,Słupsk,ul.,ulica,Raszyńska,Raszyńska,3,,,,0,uc,18467--3,45
+2124,117284,Słupsk,76-200,Słupsk,ul.,ulica,Raszyńska,Raszyńska,4,,,,357,uc,18467--4,57
+2125,117285,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,41,,,,5,uc,10793--41,3
+2126,117286,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,39,,,,5,uc,10793--39,10
+2127,117287,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,40,,,,9,uc,10793--40,12
+2128,117289,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,38,,,,7,uc,10793--38,16
+2130,117292,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,37,,,,10,uc,10793--37,12
+2131,117293,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,36,,,,3,uc,10793--36,3
+2132,117294,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,25,,,,180,uc,10793--25,24
+2134,117296,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,26,,,,180,uc,10793--26,35
+2142,117406,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,18,,,,178,uc,09186--18,38
+2143,117409,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,17,,,,356,uc,09186--17,11
+2144,117419,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,19,,,,177,uc,09186--19,28
+2145,117423,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,16,,,,357,uc,09186--16,37
+2146,117424,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,20,,,,177,uc,09186--20,20
+2147,117425,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,20A,,,,178,uc,09186--20A,5
+2148,117426,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,26,,,,356,uc,24628--26,10
+2149,117429,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,15,,,,357,uc,09186--15,35
+2150,117434,Słupsk,76-200,Słupsk,ul.,ulica,Żeromskiego,Stefana Żeromskiego,10,,,,356,uc,26469--10,3
+2151,117435,Słupsk,76-200,Słupsk,ul.,ulica,Żeromskiego,Stefana Żeromskiego,11,,,,176,uc,26469--11,30
+2152,117438,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,14,,,,357,uc,09186--14,64
+2153,117439,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,7,,,,176,uc,17577--7,33
+2154,117444,Słupsk,76-200,Słupsk,ul.,ulica,Żeromskiego,Stefana Żeromskiego,9,,,,358,uc,26469--9,11
+2155,117447,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,24,,,,358,uc,24628--24,16
+2156,117451,Słupsk,76-200,Słupsk,pl.,plac,Broniewskiego,Władysława Broniewskiego,4,,,,40,uc,02123--4,53
+2157,117452,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,8,,,,176,uc,17577--8,35
+2158,117459,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,5,,,,356,uc,17577--5,27
+2159,117462,Słupsk,76-200,Słupsk,pl.,plac,Broniewskiego,Władysława Broniewskiego,2,,,,41,uc,02123--2,43
+2160,117463,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,9,,,,175,uc,17577--9,36
+2161,117465,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,32,,,,178,uc,24628--32,29
+2162,117467,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,36,,,,86,uc,24289--36,18
+2163,117468,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,35,,,,87,uc,24289--35,4
+2164,117469,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,37,,,,86,uc,24289--37,24
+2165,117475,Słupsk,76-200,Słupsk,pl.,plac,Broniewskiego,Władysława Broniewskiego,1,,,,41,uc,02123--1,17
+2166,117476,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,4,,,,356,uc,17577--4,19
+2167,117479,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,10,,,,176,uc,17577--10,27
+2168,117480,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,19,,,,343,uc,24687--19,25
+2169,117484,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,29,,,,87,uc,24289--29,16
+2170,117485,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,28,,,,87,uc,24289--28,17
+2171,117491,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,25,,,,86,uc,24289--25,32
+2172,117492,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,4,,,,267,uc,24289--4,17
+2173,117496,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,5,,,,267,uc,24289--5,12
+2174,117497,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,23,,,,87,uc,24289--23,36
+2175,117499,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,33,,,,177,uc,24628--33,17
+2176,117500,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,18,,,,344,uc,24687--18,5
+2177,117503,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,20,,,,357,uc,24628--20,23
+2178,117508,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,12,,,,15,uc,23196--12,127
+2179,117510,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,12,,,,266,uc,24289--12,90
+2180,117511,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,26,,,,74,uc,27319--26,19
+2181,117512,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,13,,,,268,uc,24289--13,29
+2182,117513,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,34,,,,177,uc,24628--34,10
+2183,117514,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,14,,,,267,uc,24289--14,33
+2184,117517,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,15,,,,266,uc,24289--15,30
+2185,117520,Słupsk,76-200,Słupsk,pl.,plac,Broniewskiego,Władysława Broniewskiego,11,,,,312,uc,02123--11,25
+2186,117521,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,16,,,,267,uc,24289--16,20
+2187,117522,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,25,,,,75,uc,27319--25,9
+2188,117524,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,17,,,,267,uc,24289--17,35
+2189,117525,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,18,,,,267,uc,24289--18,26
+2190,117526,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,19,,,,267,uc,24289--19,14
+2191,117528,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,20,,,,266,uc,24289--20,15
+2192,117529,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,24,,,,75,uc,27319--24,25
+2193,117531,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,35,,,,177,uc,24628--35,15
+2194,117532,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,23,,,,74,uc,27319--23,41
+2195,117533,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,17,,,,344,uc,24687--17,10
+2196,117534,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,3,,,,356,uc,17577--3,32
+2197,117536,Słupsk,76-200,Słupsk,pl.,plac,Broniewskiego,Władysława Broniewskiego,12,,,,311,uc,02123--12,17
+2198,117538,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,29,,,,165,uc,24687--29,40
+2199,117539,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,22,,,,74,uc,27319--22,41
+2200,117541,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,16,,,,344,uc,24687--16,27
+2201,117542,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,11,,,,176,uc,17577--11,20
+2202,117545,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,36,,,,177,uc,24628--36,23
+2203,117547,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,21,,,,75,uc,27319--21,36
+2204,117548,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,3,,,,255,uc,27319--3,15
+2205,117549,Słupsk,76-200,Słupsk,ul.,ulica,Żeromskiego,Stefana Żeromskiego,4,,,,356,uc,26469--4,26
+2206,117551,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,28,,,,177,uc,09186--28,41
+2207,117554,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,4,,,,255,uc,27319--4,28
+2208,117557,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,30,,,,165,uc,24687--30,31
+2209,117562,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,5,,,,255,uc,27319--5,45
+2210,117563,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,12,,,,176,uc,17577--12,24
+2211,117566,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,19,,,,75,uc,27319--19,30
+2212,117568,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,6,,,,255,uc,27319--6,28
+2213,117572,Słupsk,76-200,Słupsk,ul.,ulica,Żeromskiego,Stefana Żeromskiego,3,,,,356,uc,26469--3,32
+2214,117575,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,18,,,,74,uc,27319--18,23
+2215,117577,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,29,,,,177,uc,09186--29,2
+2216,117579,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,7,,,,255,uc,27319--7,37
+2217,117580,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,38,,,,177,uc,24628--38,14
+2218,117582,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,13,,,,176,uc,17577--13,26
+2219,117586,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,16,,,,74,uc,27319--16,37
+2220,117587,Słupsk,76-200,Słupsk,ul.,ulica,Żeromskiego,Stefana Żeromskiego,2,,,,356,uc,26469--2,18
+2221,117588,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,56,,,,87,uc,12740--56,24
+2222,117589,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,57,,,,87,uc,12740--57,9
+2223,117590,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,59,,,,87,uc,12740--59,6
+2224,117591,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,58,,,,87,uc,12740--58,14
+2225,117597,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,51,,,,87,uc,12740--51,12
+2226,117598,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,50,,,,87,uc,12740--50,10
+2227,117599,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,53,,,,86,uc,12740--53,25
+2228,117600,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,52,,,,86,uc,12740--52,12
+2229,117601,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,14,,,,344,uc,24687--14,24
+2230,117602,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,60,,,,86,uc,12740--60,10
+2231,117604,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,14,,,,176,uc,17577--14,18
+2232,117605,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,49,,,,87,uc,12740--49,10
+2233,117606,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,15,,,,357,uc,24628--15,11
+2234,117609,Słupsk,76-200,Słupsk,ul.,ulica,Żeromskiego,Stefana Żeromskiego,1,,,,356,uc,26469--1,34
+2235,117610,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,48,,,,86,uc,12740--48,14
+2236,117612,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,11,,,,255,uc,27319--11,26
+2237,117614,Słupsk,76-200,Słupsk,ul.,ulica,Prusa,Bolesława Prusa,15,,,,176,uc,17577--15,15
+2238,117616,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,33,,,,165,uc,24687--33,42
+2239,117617,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,12,,,,255,uc,27319--12,30
+2240,117618,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,13,,,,344,uc,24687--13,32
+2241,117619,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,39,,,,88,uc,12740--39,65
+2242,117621,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,41,,,,87,uc,12740--41,14
+2243,117623,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,40,,,,87,uc,12740--40,18
+2244,117624,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,13,,,,255,uc,27319--13,37
+2245,117625,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,37,,,,87,uc,12740--37,25
+2246,117626,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,3,,,,267,uc,12740--3,14
+2247,117627,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,36,,,,87,uc,12740--36,26
+2248,117628,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,4,,,,266,uc,12740--4,29
+2249,117629,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,5,,,,267,uc,12740--5,14
+2250,117630,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,35,,,,87,uc,12740--35,12
+2251,117633,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,14,,,,255,uc,27319--14,24
+2252,117634,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,7,,,,267,uc,12740--7,24
+2253,117637,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,9,,,,267,uc,12740--9,8
+2254,117638,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,10,,,,267,uc,12740--10,14
+2255,117639,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,11,,,,267,uc,12740--11,20
+2256,117644,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,41-42,,,,177,uc,24628--41-42,3
+2257,117645,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,33,,,,74,uc,12130--33,43
+2258,117646,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,34,,,,74,uc,12130--34,23
+2259,117651,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,16,,,,266,uc,12740--16,12
+2260,117652,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,17,,,,267,uc,12740--17,32
+2261,117654,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,19,,,,266,uc,12740--19,23
+2262,117655,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,20,,,,267,uc,12740--20,24
+2263,117656,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,21,,,,267,uc,12740--21,29
+2264,117657,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,22,,,,267,uc,12740--22,26
+2265,117658,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,23,,,,267,uc,12740--23,26
+2266,117660,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,7,,,,175,uc,25084--7,46
+2267,117662,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,25,,,,267,uc,12740--25,26
+2268,117663,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,13,,,,356,uc,24628--13,17
+2269,117664,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,26,,,,267,uc,12740--26,21
+2270,117665,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,13A,,,,253,uc,27319--13A,20
+2271,117666,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,27,,,,266,uc,12740--27,21
+2272,117669,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,31,,,,74,uc,12130--31,26
+2273,117670,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,28,,,,266,uc,12740--28,16
+2274,117671,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,29,,,,266,uc,12740--29,24
+2275,117672,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,9,,,,14,uc,23196--9,34
+2276,117673,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,10,,,,356,uc,09848--10,16
+2277,117675,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,43,,,,177,uc,24628--43,21
+2278,117676,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,30,,,,267,uc,12740--30,39
+2279,117677,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,30,,,,74,uc,12130--30,28
+2280,117680,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,12,,,,356,uc,24628--12,27
+2281,117681,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,12,,,,176,uc,09848--12,13
+2282,117683,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,29,,,,74,uc,12130--29,16
+2283,117685,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,12,,,,344,uc,24687--12,49
+2284,117686,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,28,,,,74,uc,12130--28,23
+2285,117688,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,1,,,,254,uc,12130--1,26
+2286,117690,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,27,,,,74,uc,12130--27,15
+2287,117694,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,6,,,,356,uc,25084--6,37
+2288,117695,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,35,,,,164,uc,24687--35,32
+2289,117696,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,2,,,,254,uc,12130--2,22
+2290,117697,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,44,,,,177,uc,24628--44,15
+2291,117698,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,11,,,,356,uc,24628--11,4
+2292,117699,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,9,,,,357,uc,09848--9,9
+2293,117700,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,3,,,,255,uc,12130--3,22
+2294,117703,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,13,,,,177,uc,09848--13,20
+2295,117706,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,25,,,,74,uc,12130--25,17
+2296,117709,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,10,,,,357,uc,24628--10,5
+2297,117712,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,24,,,,74,uc,12130--24,13
+2298,117713,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,5,,,,255,uc,12130--5,31
+2299,117714,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,36,,,,163,uc,24687--36,18
+2300,117715,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,5,,,,356,uc,25084--5,25
+2301,117718,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,8,,,,15,uc,23196--8,31
+2302,117719,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,45,,,,177,uc,24628--45,19
+2303,117720,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,8,,,,357,uc,09848--8,17
+2304,117722,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,23,,,,74,uc,12130--23,8
+2305,117723,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,6,,,,254,uc,12130--6,34
+2306,117724,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,22,,,,75,uc,12130--22,8
+2307,117727,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,21,,,,74,uc,12130--21,9
+2308,117728,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,9,,,,356,uc,24628--9,1
+2309,117729,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,20,,,,75,uc,12130--20,18
+2310,117731,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,19,,,,74,uc,12130--19,10
+2311,117733,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,7,,,,255,uc,12130--7,34
+2312,117735,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,4,,,,356,uc,25084--4,32
+2313,117736,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,8,,,,255,uc,12130--8,38
+2314,117738,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,10,,,,176,uc,25084--10,45
+2315,117745,Słupsk,76-200,Słupsk,ul.,ulica,Morcinka,Gustawa Morcinka,1,,,,90,uc,13279--1,105
+2316,117748,Słupsk,76-200,Słupsk,ul.,ulica,Morcinka,Gustawa Morcinka,3,,,,90,uc,13279--3,58
+2317,117750,Słupsk,76-200,Słupsk,ul.,ulica,Morcinka,Gustawa Morcinka,2,,,,89,uc,13279--2,91
+2318,117751,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,3,,,,357,uc,25084--3,30
+2319,117755,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,11,,,,176,uc,25084--11,55
+2320,117758,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,6,,,,41,uc,09848--6,9
+2321,117762,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,2,,,,356,uc,25084--2,34
+2322,117768,Słupsk,76-200,Słupsk,ul.,ulica,Morcinka,Gustawa Morcinka,4,,,,89,uc,13279--4,116
+2323,117769,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,12,,,,176,uc,25084--12,18
+2324,117772,Słupsk,76-200,Słupsk,ul.,ulica,Niedziałkowskiego,Mieczysława Niedziałkowskiego,4,,,,143,uc,14140--4,4
+2325,117773,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,16,,,,205,uc,09848--16,18
+2326,117775,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,17,,,,85,uc,20551--17,40
+2327,117777,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,19,,,,84,uc,20551--19,27
+2328,117778,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,18,,,,85,uc,20551--18,33
+2329,117785,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,5,,,,357,uc,24628--5,14
+2330,117786,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,15,,,,85,uc,20551--15,36
+2331,117787,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,14,,,,84,uc,20551--14,13
+2332,117788,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,10,,,,84,uc,20551--10,31
+2333,117789,Słupsk,76-200,Słupsk,ul.,ulica,Niedziałkowskiego,Mieczysława Niedziałkowskiego,5,,,,143,uc,14140--5,19
+2334,117791,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,12,,,,83,uc,20551--12,34
+2335,117792,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,13,,,,84,uc,20551--13,15
+2336,117794,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,17,,,,237,uc,09848--17,44
+2337,117795,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,11,,,,84,uc,20551--11,25
+2338,117797,Słupsk,76-200,Słupsk,ul.,ulica,Morcinka,Gustawa Morcinka,22,,,,256,uc,13279--22,29
+2339,117801,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,3,,,,35,uc,09848--3,51
+2341,117805,Słupsk,76-200,Słupsk,ul.,ulica,Niedziałkowskiego,Mieczysława Niedziałkowskiego,3,,,,323,uc,14140--3,18
+2342,117807,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,1,,,,264,uc,20551--1,28
+2343,117808,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,2,,,,265,uc,20551--2,15
+2344,117809,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,3,,,,265,uc,20551--3,16
+2345,117810,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,3,,,,357,uc,24628--3,19
+2346,117811,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,4-5,,,,264,uc,20551--4-5,29
+2347,117812,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,6,,,,265,uc,20551--6,29
+2349,117816,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,2,,,,36,uc,09848--2,24
+2350,117818,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,7,,,,264,uc,20551--7,14
+2352,117823,Słupsk,76-200,Słupsk,ul.,ulica,Morcinka,Gustawa Morcinka,5,,,,254,uc,13279--5,12
+2354,117827,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,2,,,,356,uc,24628--2,29
+2355,117834,Słupsk,76-200,Słupsk,ul.,ulica,Starzyńskiego,Stefana Starzyńskiego,1,,,,95,uc,21047--1,8
+2356,117835,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,54,,,,176,uc,24628--54,3
+2357,117838,Słupsk,76-200,Słupsk,ul.,ulica,Niedziałkowskiego,Mieczysława Niedziałkowskiego,7,,,,143,uc,14140--7,13
+2358,117840,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,2,,,,16,uc,23196--2,28
+2359,117842,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,1,,,,357,uc,24628--1,58
+2360,117843,Słupsk,76-200,Słupsk,ul.,ulica,Starzyńskiego,Stefana Starzyńskiego,2,,,,94,uc,21047--2,9
+2361,117844,Słupsk,76-200,Słupsk,ul.,ulica,Starzyńskiego,Stefana Starzyńskiego,4,,,,94,uc,21047--4,12
+2362,117846,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,8,,,,83,uc,21071--8,10
+2363,117847,Słupsk,76-200,Słupsk,ul.,ulica,Starzyńskiego,Stefana Starzyńskiego,8,,,,94,uc,21047--8,16
+2364,117851,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,7,,,,86,uc,21071--7,22
+2365,117853,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,3,,,,85,uc,21071--3,6
+2366,117854,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,6,,,,85,uc,21071--6,12
+2367,117855,Słupsk,76-200,Słupsk,,inna,Sienkiewicza,Henryka Sienkiewicza,1,,,,53,uc,19831--1,35
+2368,117858,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,5,,,,84,uc,21071--5,18
+2369,117859,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,4,,,,84,uc,21071--4,10
+2370,117862,Słupsk,76-200,Słupsk,,inna,Sienkiewicza,Henryka Sienkiewicza,2,,,,54,uc,19831--2,10
+2371,117871,Słupsk,76-200,Słupsk,,inna,Sienkiewicza,Henryka Sienkiewicza,3,,,,53,uc,19831--3,22
+2373,117875,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,10,,,,165,uc,21071--10,1
+2374,117878,Słupsk,76-200,Słupsk,,inna,Sienkiewicza,Henryka Sienkiewicza,4,,,,53,uc,19831--4,34
+2376,117881,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,11,,,,144,uc,21071--11,20
+2378,117885,Słupsk,76-200,Słupsk,,inna,Sienkiewicza,Henryka Sienkiewicza,5,,,,53,uc,19831--5,20
+2383,117895,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,13,,,,200,uc,21071--13,31
+2384,117897,Słupsk,76-200,Słupsk,ul.,ulica,Łajming,Anny Łajming,4,,,,282,uc,38322--4,17
+2385,117898,Słupsk,76-200,Słupsk,ul.,ulica,Łajming,Anny Łajming,5,,,,259,uc,38322--5,24
+2386,117900,Słupsk,76-200,Słupsk,,inna,Sienkiewicza,Henryka Sienkiewicza,6,,,,54,uc,19831--6,32
+2387,117905,Słupsk,76-200,Słupsk,ul.,ulica,Łajming,Anny Łajming,7,,,,240,uc,38322--7,1
+2388,117909,Słupsk,76-200,Słupsk,,inna,Sienkiewicza,Henryka Sienkiewicza,8,,,,53,uc,19831--8,40
+2389,117916,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,8,,,,273,uc,09282--8,14
+2390,117921,Słupsk,76-200,Słupsk,ul.,ulica,Filmowa,Filmowa,5,,,,112,uc,05009--5,42
+2391,117928,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,15,,,,268,uc,09282--15,29
+2393,117933,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,17,,,,268,uc,09282--17,48
+2395,117939,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,6,,,,286,uc,09282--6,24
+2396,117946,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,4-5,,,,290,uc,09282--4-5,3
+2397,117948,Słupsk,76-200,Słupsk,ul.,ulica,Filmowa,Filmowa,4,,,,106,uc,05009--4,6
+2399,117961,Słupsk,76-200,Słupsk,ul.,ulica,Murarska,Murarska,6,,,,235,uc,13486--6,15
+2400,117963,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,20,,,,225,uc,16116--20,2
+2401,117964,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,21-22,,,,224,uc,16116--21-22,11
+2402,117967,Słupsk,76-200,Słupsk,ul.,ulica,Bema,Józefa Bema,11,,,,28,uc,01015--11,4
+2403,117968,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,16,,,,54,uc,16116--16,6
+2404,117969,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,23,,,,227,uc,16116--23,8
+2405,117971,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,15,,,,54,uc,16116--15,3
+2406,117974,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,24,,,,225,uc,16116--24,5
+2407,117975,Słupsk,76-200,Słupsk,ul.,ulica,Nowobramska,Nowobramska,2,,,,23,uc,14411--2,94
+2408,117977,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,14,,,,52,uc,16116--14,4
+2409,117978,Słupsk,76-200,Słupsk,ul.,ulica,Murarska,Murarska,9,,,,229,uc,13486--9,12
+2410,117979,Słupsk,76-200,Słupsk,ul.,ulica,Bema,Józefa Bema,8,,,,27,uc,01015--8,6
+2411,117983,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,13,,,,54,uc,16116--13,4
+2412,117986,Słupsk,76-200,Słupsk,ul.,ulica,Waryńskiego,Ludwika Waryńskiego,1,,,,113,uc,23707--1,11
+2413,117987,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,12,,,,32,uc,16116--12,27
+2414,117988,Słupsk,76-200,Słupsk,ul.,ulica,Bema,Józefa Bema,7,,,,26,uc,01015--7,12
+2415,117996,Słupsk,76-200,Słupsk,ul.,ulica,Grodzka,Grodzka,8,,,,315,uc,06163--8,32
+2416,117997,Słupsk,76-200,Słupsk,ul.,ulica,Bema,Józefa Bema,5,,,,29,uc,01015--5,8
+2419,118003,Słupsk,76-200,Słupsk,ul.,ulica,Murarska,Murarska,11,,,,235,uc,13486--11,36
+2421,118005,Słupsk,76-200,Słupsk,ul.,ulica,Murarska,Murarska,14,,,,55,uc,13486--14,19
+2422,118007,Słupsk,76-200,Słupsk,ul.,ulica,Bema,Józefa Bema,4,,,,31,uc,01015--4,21
+2423,118012,Słupsk,76-200,Słupsk,ul.,ulica,Wandy,Wandy,7,,,,85,uc,23611--7,10
+2424,118014,Słupsk,76-200,Słupsk,ul.,ulica,Wandy,Wandy,8,,,,87,uc,23611--8,6
+2425,118015,Słupsk,76-200,Słupsk,ul.,ulica,Wandy,Wandy,9,,,,87,uc,23611--9,3
+2426,118016,Słupsk,76-200,Słupsk,ul.,ulica,Wandy,Wandy,4,,,,108,uc,23611--4,4
+2427,118018,Słupsk,76-200,Słupsk,ul.,ulica,Wandy,Wandy,5,,,,91,uc,23611--5,4
+2428,118020,Słupsk,76-200,Słupsk,ul.,ulica,Grodzka,Grodzka,7,,,,315,uc,06163--7,31
+2429,118021,Słupsk,76-200,Słupsk,ul.,ulica,Grodzka,Grodzka,10,,,,137,uc,06163--10,15
+2430,118023,Słupsk,76-200,Słupsk,ul.,ulica,Piekiełko,Piekiełko,1,,,,29,uc,16116--1,46
+2431,118026,Słupsk,76-200,Słupsk,ul.,ulica,Grodzka,Grodzka,11,,,,113,uc,06163--11,15
+2433,118033,Słupsk,76-200,Słupsk,pl.,plac,Stary Rynek,Stary Rynek,4,,,,115,uc,21030--4,9
+2435,118035,Słupsk,76-200,Słupsk,ul.,ulica,Grodzka,Grodzka,12,,,,113,uc,06163--12,42
+2437,118038,Słupsk,76-200,Słupsk,ul.,ulica,Grodzka,Grodzka,5,,,,311,uc,06163--5,13
+2441,118046,Słupsk,76-200,Słupsk,ul.,ulica,Grodzka,Grodzka,1,,,,291,uc,06163--1,117
+2442,118049,Słupsk,76-200,Słupsk,pl.,plac,Stary Rynek,Stary Rynek,1,,,,291,uc,21030--1,30
+2443,118051,Słupsk,76-200,Słupsk,ul.,ulica,Szarych Szeregów,Szarych Szeregów,3,,,,109,uc,21787--3,19
+2444,118054,Słupsk,76-200,Słupsk,ul.,ulica,Szarych Szeregów,Szarych Szeregów,4,,,,109,uc,21787--4,56
+2445,118057,Słupsk,76-200,Słupsk,ul.,ulica,Szarych Szeregów,Szarych Szeregów,5,,,,109,uc,21787--5,40
+2446,118058,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,6,,,,197,uc,08435--6,11
+2447,118060,Słupsk,76-200,Słupsk,ul.,ulica,Szarych Szeregów,Szarych Szeregów,7,,,,109,uc,21787--7,22
+2449,118068,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,8,,,,198,uc,08435--8,7
+2450,118070,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,33,,,,108,uc,15733--33,30
+2458,118085,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,10,,,,198,uc,08435--10,6
+2466,118099,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,29,,,,39,uc,16742--29,28
+2467,118100,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,29,,,,288,uc,15733--29,16
+2469,118103,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,26,,,,15,uc,03851--26,17
+2470,118104,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,28,,,,290,uc,15733--28,16
+2471,118105,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,1,,,,222,uc,16742--1,17
+2473,118107,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,12,,,,195,uc,08435--12,29
+2476,118115,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,27,,,,18,uc,16742--27,21
+2478,118121,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,26,,,,286,uc,15733--26,9
+2479,118122,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,2,,,,193,uc,16742--2,18
+2481,118126,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,13,,,,196,uc,08435--13,15
+2483,118128,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,3,,,,195,uc,03851--3,10
+2484,118129,Słupsk,76-200,Słupsk,ul.,ulica,Żwirki i Wigury,Żwirki i Wigury,2,,,,285,uc,26608--2,17
+2485,118130,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,26,,,,12,uc,16742--26,13
+2490,118137,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,22,,,,289,uc,15733--22,15
+2491,118138,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,14,,,,196,uc,08435--14,7
+2492,118139,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,3,,,,193,uc,16742--3,14
+2496,118143,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,21,,,,289,uc,15733--21,15
+2498,118145,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,37,,,,15,uc,00432--37,28
+2500,118147,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,4,,,,198,uc,03851--4,6
+2502,118150,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,15,,,,195,uc,08435--15,13
+2503,118153,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,4,,,,193,uc,16742--4,11
+2505,118155,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,23,,,,16,uc,03851--23,2
+2507,118159,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,36,,,,15,uc,00432--36,11
+2508,118161,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,17,,,,195,uc,08435--17,15
+2510,118163,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,23,,,,14,uc,16742--23,16
+2516,118175,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,18,,,,196,uc,08435--18,16
+2518,118181,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,21,,,,15,uc,03851--21,6
+2519,118183,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,22,,,,13,uc,16742--22,16
+2525,118193,Słupsk,76-200,Słupsk,ul.,ulica,Słowiańska,Słowiańska,6,,,,286,uc,20294--6,61
+2533,118211,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,33,,,,12,uc,08435--33,4
+2534,118212,Słupsk,76-200,Słupsk,ul.,ulica,Słowiańska,Słowiańska,5,,,,288,uc,20294--5,80
+2537,118215,Słupsk,76-200,Słupsk,ul.,ulica,Słowiańska,Słowiańska,2,,,,288,uc,20294--2,78
+2541,118219,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,10,,,,192,uc,16742--10,23
+2543,118222,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,11,,,,197,uc,03851--11,7
+2546,118225,Słupsk,76-200,Słupsk,ul.,ulica,Słowiańska,Słowiańska,1,,,,288,uc,20294--1,32
+2549,118231,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,12,,,,196,uc,03851--12,8
+2551,118233,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,31,,,,14,uc,00432--31,28
+2558,118243,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,20,,,,14,uc,16742--20,31
+2560,118246,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,30,,,,16,uc,08435--30,7
+2561,118247,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,14,,,,46,uc,03851--14,19
+2562,118248,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,13,,,,196,uc,03851--13,9
+2565,118253,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,22,,,,195,uc,08435--22,14
+2567,118255,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,19,,,,14,uc,16742--19,32
+2577,118267,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,23,,,,197,uc,08435--23,20
+2584,118278,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,13,,,,192,uc,16742--13,8
+2587,118281,Słupsk,76-200,Słupsk,ul.,ulica,Kaszubska,Kaszubska,15,,,,107,uc,08183--15,7
+2589,118285,Słupsk,76-200,Słupsk,ul.,ulica,Kaszubska,Kaszubska,17,,,,99,uc,08183--17,4
+2595,118295,Słupsk,76-200,Słupsk,ul.,ulica,Kaszubska,Kaszubska,3,,,,104,uc,08183--3,6
+2596,118296,Słupsk,76-200,Słupsk,ul.,ulica,Kaszubska,Kaszubska,5,,,,111,uc,08183--5,8
+2600,118303,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,22,,,,35,uc,00432--22,1
+2918,118888,Słupsk,76-200,Słupsk,ul.,ulica,Stwosza,Wita Stwosza,2,,,,283,uc,21435--2,14
+2919,118889,Słupsk,76-200,Słupsk,ul.,ulica,Stwosza,Wita Stwosza,3,,,,284,uc,21435--3,31
+2920,118892,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,22,,,,200,uc,23196--22,5
+2921,118894,Słupsk,76-200,Słupsk,ul.,ulica,Kasprowicza,Jana Kasprowicza,8,,,,345,uc,08153--8,1
+2922,118903,Słupsk,76-200,Słupsk,ul.,ulica,Deotymy,Deotymy,14,,,,185,uc,03762--14,39
+2923,118904,Słupsk,76-200,Słupsk,pl.,plac,Dąbrowskiego,Dąbrowskiego,4,,,,270,uc,03666--4,21
+2924,118905,Słupsk,76-200,Słupsk,pl.,plac,Dąbrowskiego,Dąbrowskiego,5,,,,270,uc,03666--5,22
+2925,118907,Słupsk,76-200,Słupsk,ul.,ulica,Deotymy,Deotymy,10,,,,1,uc,03762--10,11
+2926,118909,Słupsk,76-200,Słupsk,ul.,ulica,Deotymy,Deotymy,15,,,,183,uc,03762--15,16
+2927,118917,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,2,,,,121,uc,14834--2,28
+2928,118919,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,6,,,,215,uc,14834--6,8
+2929,118922,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,32,,,,318,uc,15532--32,15
+2930,118924,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,22,,,,313,uc,14834--22,11
+2931,118925,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,7,,,,228,uc,14834--7,15
+2932,118926,Słupsk,76-200,Słupsk,ul.,ulica,Deotymy,Deotymy,18,,,,185,uc,03762--18,3
+2933,118927,Słupsk,76-200,Słupsk,ul.,ulica,Deotymy,Deotymy,5,,,,8,uc,03762--5,19
+2934,118928,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,21,,,,316,uc,14834--21,15
+2935,118931,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,35,,,,194,uc,23196--35,18
+2936,118932,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,20,,,,296,uc,14834--20,24
+2937,118933,Słupsk,76-200,Słupsk,ul.,ulica,Deotymy,Deotymy,4,,,,4,uc,03762--4,42
+2938,118934,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,8,,,,134,uc,21654--8,17
+2939,118935,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,31,,,,318,uc,15532--31,18
+2940,118936,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,19,,,,289,uc,14834--19,19
+2941,118938,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,36,,,,193,uc,23196--36,8
+2942,118940,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,9,,,,150,uc,21654--9,24
+2943,118941,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,17,,,,290,uc,14834--17,8
+2944,118942,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,30,,,,322,uc,15532--30,23
+2945,118943,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,16,,,,289,uc,14834--16,17
+2946,118946,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,8,,,,280,uc,14834--8,65
+2947,118947,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,13,,,,294,uc,14834--13,8
+2948,118952,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,7,,,,356,uc,21654--7,44
+2949,118953,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,10,,,,164,uc,21654--10,12
+2950,118954,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,29,,,,322,uc,15532--29,19
+2951,118955,Słupsk,76-200,Słupsk,ul.,ulica,Polna,Polna,6,,,,187,uc,17011--6,19
+2952,118959,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,28,,,,320,uc,15532--28,19
+2953,118960,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,11,,,,172,uc,21654--11,3
+2954,118961,Słupsk,76-200,Słupsk,ul.,ulica,Polna,Polna,4,,,,191,uc,17011--4,32
+2955,118963,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,2,,,,103,uc,03839--2,22
+2956,118965,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,3,,,,105,uc,03839--3,25
+2957,118967,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,5,,,,353,uc,21654--5,31
+2958,118968,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,27,,,,323,uc,15532--27,15
+2959,118971,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,12,,,,174,uc,21654--12,20
+2960,118972,Słupsk,76-200,Słupsk,ul.,ulica,Polna,Polna,7,,,,9,uc,17011--7,16
+2961,118973,Słupsk,76-200,Słupsk,ul.,ulica,Polna,Polna,2,,,,180,uc,17011--2,24
+2962,118974,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,44,,,,281,uc,03839--44,22
+2963,118975,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,8,,,,104,uc,03839--8,7
+2964,118977,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,43,,,,286,uc,03839--43,17
+2965,118978,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,26,,,,319,uc,15532--26,23
+2966,118979,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,13,,,,176,uc,21654--13,10
+2967,118981,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,9,,,,107,uc,03839--9,2
+2968,118982,Słupsk,76-200,Słupsk,ul.,ulica,Polna,Polna,1,,,,190,uc,17011--1,8
+2969,118983,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,11,,,,103,uc,03839--11,2
+2970,118984,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,14,,,,99,uc,03839--14,1
+2971,118985,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,24,,,,85,uc,03839--24,13
+2972,118986,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,23,,,,80,uc,03839--23,37
+2973,118987,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,15,,,,98,uc,03839--15,3
+2974,118988,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,13,,,,98,uc,03839--13,11
+2975,118989,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,17,,,,102,uc,03839--17,39
+2976,118990,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,22,,,,83,uc,03839--22,15
+2977,118991,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,18,,,,89,uc,03839--18,47
+2978,118992,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,21,,,,83,uc,03839--21,39
+2979,118993,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,40,,,,286,uc,03839--40,22
+2980,118994,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,20,,,,90,uc,03839--20,29
+2981,118996,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,19,,,,88,uc,03839--19,36
+2982,118997,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,39,,,,281,uc,03839--39,13
+2983,118998,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,25,,,,321,uc,15532--25,11
+2984,118999,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,38,,,,280,uc,03839--38,13
+2985,119000,Słupsk,76-200,Słupsk,ul.,ulica,Świętopełka,Świętopełka,2,,,,262,uc,22555--2,13
+2986,119002,Słupsk,76-200,Słupsk,ul.,ulica,Świętopełka,Świętopełka,1,,,,264,uc,22555--1,17
+2987,119003,Słupsk,76-200,Słupsk,pl.,plac,Zwycięstwa,Zwycięstwa,4,,,,186,uc,26325--4,2
+2988,119006,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,36,,,,280,uc,03839--36,1
+2989,119008,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,14,,,,172,uc,21654--14,14
+2990,119010,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,8,,,,46,uc,26969--8,17
+2991,119012,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,33,,,,267,uc,03839--33,31
+2992,119015,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,7,,,,46,uc,26969--7,27
+2993,119016,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,15,,,,180,uc,21654--15,4
+2994,119019,Słupsk,76-200,Słupsk,ul.,ulica,Sygietyńskiego,Tadeusza Sygietyńskiego,16,,,,174,uc,21654--16,1
+2995,119023,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,21,,,,226,uc,26969--21,6
+2996,119025,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,5,,,,47,uc,26969--5,1
+2997,119030,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,4,,,,71,uc,26969--4,50
+2998,119032,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,7,,,,90,uc,07240--7,11
+2999,119034,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,22,,,,224,uc,26969--22,2
+3000,119039,Słupsk,76-200,Słupsk,ul.,ulica,Filmowa,Filmowa,6,,,,109,uc,05009--6,43
+3001,119041,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,12,,,,108,uc,07240--12,36
+3002,119043,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,13,,,,107,uc,07240--13,21
+3003,119044,Słupsk,76-200,Słupsk,ul.,ulica,Filmowa,Filmowa,7,,,,106,uc,05009--7,52
+3004,119045,Słupsk,76-200,Słupsk,ul.,ulica,Szymanowskiego,Karola Szymanowskiego,6,,,,319,uc,22238--6,8
+3005,119054,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,14,,,,108,uc,07240--14,14
+3006,119057,Słupsk,76-200,Słupsk,ul.,ulica,Szymanowskiego,Karola Szymanowskiego,7,,,,315,uc,22238--7,20
+3007,119065,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,17,,,,108,uc,07240--17,22
+3008,119066,Słupsk,76-200,Słupsk,ul.,ulica,Szymanowskiego,Karola Szymanowskiego,8,,,,318,uc,22238--8,86
+3009,119069,Słupsk,76-200,Słupsk,ul.,ulica,Nowobramska,Nowobramska,1,,,,196,uc,14411--1,60
+3010,119070,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,22,,,,286,uc,07240--22,13
+3011,119071,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,15,,,,313,uc,02849--15,36
+3012,119072,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,21,,,,284,uc,07240--21,23
+3013,119073,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,20,,,,292,uc,07240--20,22
+3014,119074,Słupsk,76-200,Słupsk,ul.,ulica,Szymanowskiego,Karola Szymanowskiego,9,,,,317,uc,22238--9,10
+3015,119075,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,24,,,,226,uc,26969--24,19
+3016,119079,Słupsk,76-200,Słupsk,ul.,ulica,Słowackiego,Juliusza Słowackiego,2,,,,191,uc,20291--2,10
+3017,119081,Słupsk,76-200,Słupsk,ul.,ulica,Jagiełły,Władysława Jagiełły,1,,,,331,uc,24494--1,13
+3018,119082,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,13,,,,320,uc,02849--13,27
+3019,119083,Słupsk,76-200,Słupsk,ul.,ulica,Słowackiego,Juliusza Słowackiego,3,,,,190,uc,20291--3,2
+3020,119086,Słupsk,76-200,Słupsk,ul.,ulica,Teatralna,Teatralna,7,,,,50,uc,22723--7,12
+3021,119087,Słupsk,76-200,Słupsk,ul.,ulica,Słowackiego,Juliusza Słowackiego,4,,,,190,uc,20291--4,46
+3022,119088,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,12,,,,321,uc,02849--12,26
+3023,119089,Słupsk,76-200,Słupsk,ul.,ulica,Mieszka I,Mieszka I,2,,,,58,uc,12832--2,10
+3024,119090,Słupsk,76-200,Słupsk,ul.,ulica,Teatralna,Teatralna,6,,,,57,uc,22723--6,22
+3027,119093,Słupsk,76-200,Słupsk,ul.,ulica,Mieszka I,Mieszka I,3,,,,53,uc,12832--3,5
+3029,119095,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,17,,,,136,uc,02849--17,86
+3030,119097,Słupsk,76-200,Słupsk,ul.,ulica,Teatralna,Teatralna,1,,,,241,uc,22723--1,17
+3032,119099,Słupsk,76-200,Słupsk,ul.,ulica,Mieszka I,Mieszka I,4,,,,64,uc,12832--4,15
+3033,119100,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,11,,,,320,uc,02849--11,29
+3034,119101,Słupsk,76-200,Słupsk,ul.,ulica,Teatralna,Teatralna,2,,,,237,uc,22723--2,19
+3035,119104,Słupsk,76-200,Słupsk,ul.,ulica,Teatralna,Teatralna,3,,,,235,uc,22723--3,24
+3036,119105,Słupsk,76-200,Słupsk,ul.,ulica,Teatralna,Teatralna,4,,,,169,uc,22723--4,8
+3037,119107,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,10,,,,314,uc,02849--10,16
+3038,119108,Słupsk,76-200,Słupsk,ul.,ulica,Teatralna,Teatralna,5,,,,349,uc,22723--5,29
+3041,119113,Słupsk,76-200,Słupsk,ul.,ulica,Słowackiego,Juliusza Słowackiego,5,,,,190,uc,20291--5,9
+3042,119114,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,9,,,,313,uc,02849--9,27
+3043,119115,Słupsk,76-200,Słupsk,ul.,ulica,Słowackiego,Juliusza Słowackiego,43,,,,9,uc,20291--43,12
+3044,119118,Słupsk,76-200,Słupsk,ul.,ulica,Mikołajska,Mikołajska,1,,,,146,uc,12896--1,38
+3045,119120,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,8,,,,316,uc,02849--8,12
+3047,119122,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,18,,,,136,uc,02849--18,21
+3050,119125,Słupsk,76-200,Słupsk,pl.,plac,Stary Rynek,Stary Rynek,7,,,,209,uc,21030--7,69
+3051,119128,Słupsk,76-200,Słupsk,ul.,ulica,Łukasiewicza,Ignacego Łukasiewicza,6,,,,23,uc,11749--6,52
+3053,119131,Słupsk,76-200,Słupsk,ul.,ulica,Mikołajska,Mikołajska,6,,,,326,uc,12896--6,24
+3056,119135,Słupsk,76-200,Słupsk,ul.,ulica,Mikołajska,Mikołajska,2,,,,157,uc,12896--2,27
+3060,119142,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,20,,,,136,uc,02849--20,9
+3061,119144,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,4,,,,126,uc,13378--4,19
+3063,119146,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,2,,,,120,uc,13378--2,17
+3064,119147,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,21,,,,134,uc,02849--21,17
+3065,119149,Słupsk,76-200,Słupsk,ul.,ulica,Mikołajska,Mikołajska,5,,,,326,uc,12896--5,79
+3066,119150,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,5,,,,121,uc,13378--5,25
+3067,119151,Słupsk,76-200,Słupsk,ul.,ulica,Lutosławskiego,Witolda Lutosławskiego,32,,,,253,uc,26969--32,32
+3068,119152,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,13,,,,294,uc,13378--13,68
+3069,119154,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,3,,,,119,uc,13378--3,64
+3070,119155,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,6,,,,118,uc,13378--6,23
+3071,119156,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,2,,,,319,uc,02849--2,11
+3072,119157,Słupsk,76-200,Słupsk,ul.,ulica,Kowalska,Kowalska,2,,,,200,uc,09665--2,55
+3073,119159,Słupsk,76-200,Słupsk,ul.,ulica,Mikołajska,Mikołajska,4,,,,166,uc,12896--4,43
+3074,119160,Słupsk,76-200,Słupsk,ul.,ulica,Chopina,Fryderyka Chopina,1,,,,315,uc,02849--1,23
+3077,119164,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,12,,,,304,uc,13378--12,23
+3083,119170,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,5,,,,266,uc,19142--5,11
+3084,119171,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,7,,,,125,uc,13378--7,63
+3085,119173,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,11,,,,307,uc,13378--11,33
+3087,119176,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,6,,,,266,uc,19142--6,33
+3089,119179,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,7,,,,265,uc,19142--7,27
+3090,119180,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,8,,,,268,uc,19142--8,23
+3091,119182,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,10,,,,304,uc,13378--10,38
+3093,119184,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,10,,,,268,uc,19142--10,15
+3094,119185,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,11,,,,264,uc,19142--11,17
+3095,119186,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,14,,,,266,uc,19142--14,23
+3096,119187,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,15,,,,263,uc,19142--15,22
+3097,119188,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,16,,,,266,uc,19142--16,16
+3098,119189,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,17,,,,265,uc,19142--17,11
+3099,119190,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,18,,,,265,uc,19142--18,18
+3100,119191,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,19,,,,272,uc,19142--19,23
+3101,119192,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,9,,,,308,uc,13378--9,33
+3102,119193,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,12,,,,266,uc,19142--12,26
+3103,119194,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,13,,,,265,uc,19142--13,17
+3107,119201,Słupsk,76-200,Słupsk,ul.,ulica,Mostnika,Michała Mostnika,8,,,,293,uc,13378--8,38
+3110,119205,Słupsk,76-200,Słupsk,ul.,ulica,Zamkowa,Zamkowa,5,,,,225,uc,25547--5,19
+3111,119209,Słupsk,76-200,Słupsk,ul.,ulica,Zamkowa,Zamkowa,4,,,,235,uc,25547--4,27
+3114,119215,Słupsk,76-200,Słupsk,ul.,ulica,Zamkowa,Zamkowa,3,,,,235,uc,25547--3,29
+3116,119219,Słupsk,76-200,Słupsk,ul.,ulica,Zamkowa,Zamkowa,2,,,,234,uc,25547--2,36
+3119,119223,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,2,,,,195,uc,00432--2,68
+3120,119224,Słupsk,76-200,Słupsk,ul.,ulica,Zamkowa,Zamkowa,1,,,,233,uc,25547--1,18
+3124,119234,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,4,,,,194,uc,00432--4,16
+3125,119236,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,20,,,,291,uc,15733--20,12
+3126,119237,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,19,,,,290,uc,15733--19,30
+3127,119238,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,5,,,,202,uc,00432--5,21
+3128,119240,Słupsk,76-200,Słupsk,ul.,ulica,Szarych Szeregów,Szarych Szeregów,10,,,,328,uc,21787--10,21
+3129,119241,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,17,,,,292,uc,15733--17,17
+3130,119242,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,16,,,,288,uc,15733--16,22
+3131,119243,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,6,,,,191,uc,00432--6,13
+3132,119245,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,15,,,,288,uc,15733--15,11
+3133,119246,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,7,,,,203,uc,00432--7,23
+3134,119247,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,13,,,,291,uc,15733--13,3
+3135,119248,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,8,,,,202,uc,00432--8,6
+3136,119249,Słupsk,76-200,Słupsk,ul.,ulica,Ojca Pio,Świętego Ojca Pio,3,,,,338,uc,38321--3,3
+3137,119251,Słupsk,76-200,Słupsk,ul.,ulica,Szkolna,Szkolna,3,,,,150,uc,21970--3,15
+3138,119253,Słupsk,76-200,Słupsk,ul.,ulica,Garncarska,Garncarska,2,,,,173,uc,05345--2,94
+3139,119254,Słupsk,76-200,Słupsk,ul.,ulica,Szkolna,Szkolna,4,,,,97,uc,21970--4,28
+3140,119255,Słupsk,76-200,Słupsk,ul.,ulica,Szkolna,Szkolna,5,,,,170,uc,21970--5,23
+3141,119256,Słupsk,76-200,Słupsk,ul.,ulica,Szkolna,Szkolna,6,,,,290,uc,21970--6,29
+3142,119257,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,7,,,,81,uc,06602--7,24
+3143,119258,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,12,,,,195,uc,00432--12,4
+3144,119260,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,3,,,,83,uc,06602--3,3
+3145,119261,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,5,,,,82,uc,06602--5,24
+3146,119262,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,13,,,,201,uc,00432--13,18
+3147,119263,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,4,,,,80,uc,06602--4,17
+3148,119265,Słupsk,76-200,Słupsk,ul.,ulica,Garncarska,Garncarska,3,,,,171,uc,05345--3,81
+3149,119267,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,14,,,,194,uc,00432--14,20
+3150,119268,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,9,,,,257,uc,06602--9,25
+3151,119269,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,10,,,,262,uc,06602--10,17
+3152,119271,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,11,,,,260,uc,06602--11,33
+3153,119272,Słupsk,76-200,Słupsk,ul.,ulica,Garncarska,Garncarska,24,,,,3,uc,05345--24,16
+3154,119274,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,14,,,,260,uc,06602--14,15
+3155,119275,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,15,,,,259,uc,06602--15,20
+3156,119276,Słupsk,76-200,Słupsk,ul.,ulica,Psie Pole,Psie Pole,12,,,,353,uc,18024--12,19
+3157,119277,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,16,,,,266,uc,06602--16,11
+3158,119278,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,17,,,,262,uc,06602--17,24
+3159,119279,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,18,,,,262,uc,06602--18,19
+3160,119281,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,20,,,,261,uc,06602--20,14
+3161,119284,Słupsk,76-200,Słupsk,ul.,ulica,Psie Pole,Psie Pole,10,,,,349,uc,18024--10,31
+3162,119287,Słupsk,76-200,Słupsk,ul.,ulica,Pobożnego,Henryka Pobożnego,21,,,,288,uc,06602--21,6
+3163,119289,Słupsk,76-200,Słupsk,ul.,ulica,Garncarska,Garncarska,5,,,,176,uc,05345--5,74
+3164,119291,Słupsk,76-200,Słupsk,ul.,ulica,Garncarska,Garncarska,7,,,,176,uc,05345--7,67
+3166,119293,Słupsk,76-200,Słupsk,ul.,ulica,Dąbrówki,Dąbrówki,16,,,,0,uc,03701--16,24
+3167,119294,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,18,,,,208,uc,00432--18,13
+3169,119297,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,19,,,,218,uc,00432--19,34
+3174,119307,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,20,,,,212,uc,00432--20,7
+3177,119310,Słupsk,76-200,Słupsk,ul.,ulica,Curie-Skłodowskiej,Marii Curie-Skłodowskiej,6,,,,102,uc,03148--6,28
+3178,119311,Słupsk,76-200,Słupsk,ul.,ulica,Curie-Skłodowskiej,Marii Curie-Skłodowskiej,4,,,,116,uc,03148--4,17
+3182,119318,Słupsk,76-200,Słupsk,ul.,ulica,Curie-Skłodowskiej,Marii Curie-Skłodowskiej,13,,,,307,uc,03148--13,15
+3185,119322,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,21,,,,67,uc,19866--21,34
+3187,119324,Słupsk,76-200,Słupsk,ul.,ulica,Curie-Skłodowskiej,Marii Curie-Skłodowskiej,12,,,,309,uc,03148--12,17
+3188,119327,Słupsk,76-200,Słupsk,ul.,ulica,Curie-Skłodowskiej,Marii Curie-Skłodowskiej,11,,,,294,uc,03148--11,11
+3189,119330,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,19,,,,66,uc,19866--19,2
+3191,119334,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,18,,,,63,uc,19866--18,10
+3192,119336,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,1,,,,242,uc,19866--1,2
+3194,119339,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,17,,,,66,uc,19866--17,12
+3195,119340,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,2,,,,243,uc,19866--2,12
+3196,119344,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,16,,,,65,uc,19866--16,28
+3197,119348,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,3,,,,246,uc,19866--3,16
+3199,119350,Słupsk,76-200,Słupsk,ul.,ulica,Gdańska,Gdańska,4,,,,191,uc,05431--4,4
+3201,119352,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,4,,,,239,uc,19866--4,10
+3203,119359,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,5,,,,251,uc,19866--5,20
+3206,119367,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,6,,,,245,uc,19866--6,26
+3209,119372,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,7,,,,251,uc,19866--7,22
+3214,119386,Słupsk,76-200,Słupsk,ul.,ulica,Na Wzgórzu,Na Wzgórzu,1,,,,222,uc,13706--1,41
+3226,119409,Słupsk,76-200,Słupsk,ul.,ulica,Gdańska,Gdańska,5,,,,187,uc,05431--5,1
+3228,119415,Słupsk,76-200,Słupsk,ul.,ulica,Na Wzgórzu,Na Wzgórzu,22,,,,0,uc,13706--22,7
+3230,119418,Słupsk,76-200,Słupsk,ul.,ulica,Na Wzgórzu,Na Wzgórzu,7,,,,179,uc,13706--7,14
+3231,119421,Słupsk,76-200,Słupsk,ul.,ulica,Gdańska,Gdańska,55,,,,338,uc,05431--55,9
+3232,119424,Słupsk,76-200,Słupsk,ul.,ulica,Gdańska,Gdańska,7,,,,189,uc,05431--7,23
+3233,119425,Słupsk,76-200,Słupsk,ul.,ulica,Na Wzgórzu,Na Wzgórzu,9,,,,179,uc,13706--9,8
+3234,119426,Słupsk,76-200,Słupsk,ul.,ulica,Gdańska,Gdańska,54,,,,9,uc,05431--54,4
+3235,119427,Słupsk,76-200,Słupsk,ul.,ulica,Na Wzgórzu,Na Wzgórzu,18,,,,17,uc,13706--18,3
+3238,119433,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,1,,,,101,uc,11265--1,16
+3239,119435,Słupsk,76-200,Słupsk,ul.,ulica,Gdańska,Gdańska,9,,,,189,uc,05431--9,31
+3240,119438,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,3,,,,131,uc,11265--3,5
+3241,119441,Słupsk,76-200,Słupsk,ul.,ulica,Gdańska,Gdańska,10,,,,186,uc,05431--10,32
+3242,119442,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,2,,,,84,uc,11265--2,18
+3246,119905,Słupsk,76-200,Słupsk,ul.,ulica,Obrońców Wybrzeża,Obrońców Wybrzeża,7,,,,27,uc,14663--7,6
+3249,120563,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,21,,,,281,uc,11265--21,4
+3253,120813,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,46,,,,19,uc,08435--46,25
+3276,122053,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,4,,,,356,uc,24628--4,12
+3293,122523,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,19,,,,281,uc,11265--19,1
+3294,122524,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,25,,,,282,uc,11265--25,13
+3295,122526,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,25A,,,,281,uc,11265--25A,10
+3296,122527,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,1,,,,189,uc,10793--1,8
+3303,122612,Słupsk,76-200,Słupsk,ul.,ulica,Lotha,Prof. Lotha,20,,,,283,uc,11265--20,7
+3304,122634,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,15,,,,113,uc,07240--15,5
+3314,122871,Słupsk,76-200,Słupsk,ul.,ulica,Na Wzgórzu,Na Wzgórzu,8,,,,176,uc,13706--8,3
+3331,123502,Słupsk,76-200,Słupsk,ul.,ulica,Szymanowskiego,Karola Szymanowskiego,8A,,,,316,uc,22238--8A,3
+3333,123514,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,47A,,,,17,uc,08435--47A,26
+3346,123717,Słupsk,76-200,Słupsk,ul.,ulica,Solskiego,Ludwika Solskiego,16,,,,84,uc,20551--16,17
+3348,123728,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,53,,,,10,uc,10793--53,13
+3352,123788,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,13,,,,356,uc,09186--13,15
+3370,124307,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,8,,,,246,uc,19866--8,10
+3378,124507,Słupsk,76-200,Słupsk,ul.,ulica,Dominikańska,Dominikańska,1,,,,247,uc,04102--1,2
+3379,124509,Słupsk,76-200,Słupsk,ul.,ulica,Dominikańska,Dominikańska,2,,,,215,uc,04102--2,3
+3407,125315,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,23,,,,283,uc,15733--23,6
+3413,125436,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,12,,,,266,uc,12740--12,21
+3414,125437,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,13,,,,266,uc,12740--13,19
+3415,125439,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,14,,,,266,uc,12740--14,16
+3417,125530,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,16,,,,140,uc,15532--16,18
+3418,125531,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,17,,,,140,uc,15532--17,10
+3422,125880,Słupsk,76-200,Słupsk,ul.,ulica,Piastów,Piastów,4A,,,,108,uc,16057--4A,2
+3436,127059,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,8,,,,254,uc,27319--8,24
+3437,127085,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,2,,,,255,uc,27319--2,31
+3438,127100,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,32,,,,75,uc,12130--32,38
+3439,127114,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,15,,,,344,uc,24687--15,27
+3440,127245,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,35,,,,82,uc,09282--35,5
+3441,127319,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,32,,,,165,uc,24687--32,21
+3442,127325,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,31,,,,165,uc,24687--31,30
+3443,127365,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,21,,,,87,uc,24289--21,21
+3444,127377,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,24,,,,164,uc,24687--24,14
+3445,127378,Słupsk,76-200,Słupsk,ul.,ulica,Wolności,Wolności,25,,,,164,uc,24687--25,14
+3446,127409,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,24,,,,86,uc,24289--24,36
+3447,127424,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,26,,,,86,uc,24289--26,26
+3448,127433,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,27,,,,86,uc,24289--27,38
+3449,127470,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,38,,,,87,uc,12740--38,34
+3450,127593,Słupsk,76-200,Słupsk,pl.,plac,Broniewskiego,Władysława Broniewskiego,3,,,,83,uc,02123--3,2
+3451,127655,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,16,,,,357,uc,24628--16,7
+3452,127666,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,17,,,,358,uc,24628--17,25
+3453,127673,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,18,,,,357,uc,24628--18,14
+3454,127683,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,19,,,,0,uc,24628--19,30
+3455,127698,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,21,,,,357,uc,24628--21,10
+3456,127714,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,22,,,,357,uc,24628--22,25
+3457,127721,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,23,,,,356,uc,24628--23,6
+3458,127753,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,25,,,,357,uc,24628--25,38
+3459,127865,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,9,,,,176,uc,25084--9,44
+3460,127875,Słupsk,76-200,Słupsk,ul.,ulica,Wyspiańskiego,Stanisława Wyspiańskiego,8,,,,177,uc,25084--8,31
+3461,127939,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,6,,,,357,uc,24628--6,16
+3463,127955,Słupsk,76-200,Słupsk,ul.,ulica,Krasińskiego,Zygmunta Krasińskiego,15,,,,178,uc,09848--15,44
+3464,127981,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,8,,,,357,uc,24628--8,18
+3465,128042,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,18,,,,267,uc,12740--18,7
+3466,128108,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,51,,,,177,uc,24628--51,13
+3467,128146,Słupsk,76-200,Słupsk,ul.,ulica,Tuwima,Juliana Tuwima,5,,,,16,uc,23196--5,16
+3468,128163,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,48,,,,177,uc,24628--48,10
+3469,128208,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,47,,,,175,uc,24628--47,10
+3470,128210,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,46,,,,177,uc,24628--46,2
+3471,128236,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,8,,,,267,uc,12740--8,17
+3472,128246,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,6,,,,267,uc,12740--6,13
+3473,128322,Słupsk,76-200,Słupsk,ul.,ulica,Staszica,Stanisława Staszica,14,,,,204,uc,21071--14,3
+3474,128381,Słupsk,76-200,Słupsk,,inna,Sienkiewicza,Henryka Sienkiewicza,21,,,,233,uc,19831--21,10
+3475,128526,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,2,,,,288,uc,09282--2,23
+3476,128529,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,48,,,,20,uc,08435--48,22
+3477,128530,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,49,,,,20,uc,08435--49,16
+3478,128601,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,35,,,,14,uc,08435--35,40
+3479,128634,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,29,,,,16,uc,08435--29,1
+3480,128799,Słupsk,76-200,Słupsk,ul.,ulica,Kilińskiego,Jana Kilińskiego,25,,,,195,uc,08435--25,9
+3481,128810,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,30,,,,255,uc,15733--30,10
+3482,128841,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,6,,,,193,uc,16742--6,60
+3483,128844,Słupsk,76-200,Słupsk,ul.,ulica,Jagiełły,Władysława Jagiełły,2,,,,331,uc,24494--2,4
+3484,128847,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,7,,,,192,uc,16742--7,10
+3485,128849,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,8,,,,192,uc,16742--8,5
+3486,128895,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,19,,,,15,uc,03851--19,13
+3487,128896,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,20,,,,15,uc,03851--20,11
+3488,128907,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,16,,,,16,uc,03851--16,25
+3489,128914,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,15,,,,15,uc,03851--15,27
+3490,128937,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,2,,,,197,uc,03851--2,3
+3491,128981,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,35,,,,15,uc,00432--35,28
+3492,128991,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,34,,,,14,uc,00432--34,26
+3493,129000,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,33,,,,15,uc,00432--33,24
+3494,129008,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,32,,,,14,uc,00432--32,8
+3495,129020,Słupsk,76-200,Słupsk,ul.,ulica,Długosza,Jana Długosza,10,,,,196,uc,03851--10,13
+3496,129040,Słupsk,76-200,Słupsk,ul.,ulica,Podgórna,Podgórna,14,,,,194,uc,16742--14,13
+3497,129061,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,28,,,,14,uc,00432--28,4
+3498,129062,Słupsk,76-200,Słupsk,ul.,ulica,Armii Krajowej,Armii Krajowej,29,,,,14,uc,00432--29,2
+3500,129080,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,40,,,,177,uc,24628--40,30
+3501,129086,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,10,,,,357,uc,09186--10,10
+3502,129087,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,11,,,,357,uc,09186--11,2
+3504,129105,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,37,,,,177,uc,24628--37,13
+3505,129125,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,31,,,,176,uc,24628--31,25
+3506,129144,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,26,,,,177,uc,09186--26,22
+3507,129145,Słupsk,76-200,Słupsk,ul.,ulica,Konopnickiej,Marii Konopnickiej,27,,,,177,uc,09186--27,27
+3509,129219,Słupsk,76-200,Słupsk,ul.,ulica,Kaszubska,Kaszubska,7,,,,113,uc,08183--7,7
+3510,129249,Słupsk,76-200,Słupsk,ul.,ulica,Wojska Polskiego,Wojska Polskiego,7,,,,356,uc,24628--7,2
+3511,129529,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,18,,,,288,uc,15733--18,15
+3512,129591,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,14,,,,260,uc,15733--14,2
+3515,129844,Słupsk,76-200,Słupsk,ul.,ulica,Paderewskiego,Ignacego Jana Paderewskiego,24,,,,137,uc,15532--24,10
+3516,129866,Słupsk,76-200,Słupsk,ul.,ulica,Sobieskiego,Jana Sobieskiego,21,,,,262,uc,20427--21,16
+3517,129867,Słupsk,76-200,Słupsk,ul.,ulica,Sobieskiego,Jana Sobieskiego,19,,,,262,uc,20427--19,6
+3544,130944,Słupsk,76-200,Słupsk,ul.,ulica,Młyńska,Młyńska,4,,,,306,uc,13132--4,1
+3562,131618,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,56,,,,11,uc,10793--56,13
+3563,131619,Słupsk,76-200,Słupsk,ul.,ulica,Lelewela,Joachima Lelewela,57,,,,11,uc,10793--57,16
+3575,131901,Słupsk,76-200,Słupsk,ul.,ulica,Szczecińska,Szczecińska,8,,,,109,uc,21805--8,18
+3585,132058,Słupsk,76-200,Słupsk,ul.,ulica,Sierpinka,Sierpinka,7A,,,,248,uc,19866--7A,2
+3586,132076,Słupsk,76-200,Słupsk,ul.,ulica,Sobieskiego,Jana Sobieskiego,20,,,,262,uc,20427--20,21
+3588,132085,Słupsk,76-200,Słupsk,ul.,ulica,Wileńska,Wileńska,32B,,,,267,uc,24289--32B,4
+3594,132121,Słupsk,76-200,Słupsk,ul.,ulica,Mickiewicza,Adama Mickiewicza,31,,,,87,uc,12740--31,22
+3601,132148,Słupsk,76-200,Słupsk,ul.,ulica,Szkolna,Szkolna,2,,,,107,uc,21970--2,16
+3602,132173,Słupsk,76-200,Słupsk,ul.,ulica,Partyzantów,Partyzantów,32,,,,289,uc,15733--32,13
+3607,132273,Słupsk,76-200,Słupsk,ul.,ulica,Małachowskiego,Stanisława Małachowskiego,18,,,,45,uc,12130--18,55
+3662,136177,Słupsk,76-200,Słupsk,ul.,ulica,Żeromskiego,Stefana Żeromskiego,3A,,,,357,uc,26469--3A,3
+3663,136178,Słupsk,76-200,Słupsk,ul.,ulica,Żeromskiego,Stefana Żeromskiego,3B,,,,357,uc,26469--3B,3
+3674,136555,Słupsk,76-200,Słupsk,ul.,ulica,Niemcewicza,Juliana Niemcewicza,1,,,,254,uc,27319--1,11
+3685,136752,Słupsk,76-200,Słupsk,ul.,ulica,Deotymy,Deotymy,23,,,,185,uc,03762--23,25
+3724,137597,Słupsk,76-200,Słupsk,ul.,ulica,Psie Pole,Psie Pole,3,,,,170,uc,18024--3,3
+3727,147910,Słupsk,76-200,Słupsk,ul.,ulica,Curie-Skłodowskiej,Marii Curie-Skłodowskiej,9,,,,97,uc,03148--9,54
+3750,151425,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,7,,,,282,uc,09282--7,14
+3751,151438,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,16,,,,267,uc,09282--16,8
+4132,210300,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,19C,,,,48,uc,19142--19C,19
+4143,210701,Słupsk,76-200,Słupsk,ul.,ulica,Murarska,Murarska,3,,,,58,uc,13486--3,11
+4256,231435,Słupsk,76-200,Słupsk,ul.,ulica,Zamenhofa,Ludwika Zamenhofa,1,,,,143,uc,25536--1,9
+4257,231438,Słupsk,76-200,Słupsk,ul.,ulica,Zamenhofa,Ludwika Zamenhofa,2,,,,143,uc,25536--2,11
+4258,231439,Słupsk,76-200,Słupsk,ul.,ulica,Zamenhofa,Ludwika Zamenhofa,3,,,,145,uc,25536--3,18
+4259,231441,Słupsk,76-200,Słupsk,ul.,ulica,Zamenhofa,Ludwika Zamenhofa,4,,,,119,uc,25536--4,18
+4260,231452,Słupsk,76-200,Słupsk,ul.,ulica,Zamenhofa,Ludwika Zamenhofa,5,,,,114,uc,25536--5,93
+4303,232044,Słupsk,76-200,Słupsk,ul.,ulica,Na Wzgórzu,Na Wzgórzu,8A,,,,167,uc,13706--8A,11
+4304,232046,Słupsk,76-200,Słupsk,ul.,ulica,Kopernika,Mikołaja Kopernika,34A,,,,80,uc,09282--34A,15
+4311,249326,Słupsk,76-200,Słupsk,ul.,ulica,Deotymy,Deotymy,24,,,,184,uc,03762--24,15
+4312,249327,Słupsk,76-200,Słupsk,ul.,ulica,Deotymy,Deotymy,25,,,,185,uc,03762--25,24
+4324,332644,Słupsk,76-200,Słupsk,ul.,ulica,Długa,Długa,30,,,,263,uc,03839--30,44
+4325,332646,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,19D,,,,48,uc,19142--19D,25
+4357,332835,Słupsk,76-200,Słupsk,ul.,ulica,Rybacka,Rybacka,19B,,,,48,uc,19142--19B,13
+4373,332912,Słupsk,76-200,Słupsk,ul.,ulica,Ogrodowa,Ogrodowa,11,,,,283,uc,14834--11,9
+4376,332917,Słupsk,76-200,Słupsk,ul.,ulica,Jaracza,Stefana Jaracza,19,,,,288,uc,07240--19,16
+4380,332993,Słupsk,76-200,Słupsk,ul.,ulica,Płowiecka,Płowiecka,5,,,,190,uc,16531--5,19
+,,,,,,,,,,,,,,,,18599
